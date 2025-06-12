@@ -1,0 +1,349 @@
+  Total potion Hanged Mans Venom ?
+Total ingredient Voidfrost ?
+Total  potion Beech Tea? 
+Geralt loots  7 Wolfsbane,2 Drakevine   ,  3   Wolvenrot ,4 Ravensilk    ,1   Brightroot,1   Parol  ,3 Ghostvine,3     Zephyrroot,    5 Shimmerleaf ,2  Felandaris,4  Basilroot,2 Aspirin,4 Wyrmsap ,5  Murkwood , 8 Silvertear,3 Brightspire ,    7  Skydrift, 2 Dawnbloom,2   Serpentine,2 Lunarshade,3 Ironbloom 
+ Geralt loots 1 Stonecap   , 3  Necrobloom,6 Ruffles,2 Winterberry,10  Dawnbloom ,1 Elderbloom,    5  Cryptbark   
+Geralt learns Blizzard  potion consists of 7 Gravemold,4 Sunspire,2   Wolvenrot,4 Voidfrost,5    Starbloom,1  Ghostvine,   1   Gr4vity ,  5 Belladonna ,5 Frostwisp,    5 Runestone  ,5 Yewbark ,1  Winterberry      ,1 Ghoulgrass, 2  Dimeritium,3 Vitriol,7 Sagewort 
+Total   ingredient Moonseed?
+What is in  Bruxas Kiss ?   
+Geralt loots 2  Moonseed,1  Lunarshade,4  Ravensilk  ,4 Emberleaf  ,2  Belladonna,2 Darkbloom, 5  Shiverfern, 4 Echinops,1  Ashthorn ,2  Aether ,2 Silverspore ,17 Necrobloom,7  Moonmoss, 3 Caelmidus, 4 Mandrake_Root,1 Vitriol,2  Grimshale ,2 Mandrake, 1 Moonflower,8 Nightshade,   1 Silvertear,1 Ghoulgrass, 3  Wolfwort,13  Skydrift  ,3   Rebis, 5 Tearleaf,2 Stonecap,2   Crowseye, 6 Ghostvine,6 Gr4vity,   5 Wyverns Breath,6 Spiritrose, 3 Gravedust,6 Shimmerleaf      ,3 Ghostwort ,3  Starbloom,6   Frostcap ,  4   Pulmonaria,1  Thornlash,1 Blackmarrow ,    4  Mistvale,4 Bloodiris,5 Ruffles ,  1 Shadowfern, 4 Vermilion,2 Duskthorn,  4 Invalid Ingredient,7 Dragonroot,3 Elderbloom ,2 Gravemold , 7 Celandine ,2 Brightspire ,   2 Cryptbark  ,2 Bruxaleaf,4 Aspirin,2 Winterberry,12 Dusknettle,3 Earthshard ,10  Trollweed,  8 Sorrowmoss,3  Voidorchid,5 Skydaisy, 2 Thundercone,8   Runestone,    2 Firefern,3 Brightroot,3  Wraithbloom,1 Zephyrroot,3  Nightpearl,3 Ironbloom,2  Felandaris   
+Geralt brews  Blizzard 
+ Geralt brews Wraithseed Extract
+What is in Moonlit Venom ?
+Geralt encounters a Nightmare
+Geralt learns   Elementa Oil potion consists  of   4 Goldmoss,3    Voidfrost , 2   Ghostvine 
+ Geralt trades 4 Slyzard , 16 Gaunter,2 Berserker, 10  Zeugl   trophy  for    7  Spiritrose ,1 Yewbark, 3 Spellthorn,1  Wyvernscale,2 Goldmoss , 1    Wolfwort,6  Sorrowmoss , 2 Invalid Ingredient,1 Wolvenrot    ,3 Sagewort 
+Geralt brews  Multiple  Spaces
+Geralt loots  3  Gravemold,1  Grimshale,2   Mistvale,2  Invalid Ingredient, 2 Sunspire ,  3   Dragonroot,8 Murkwood, 6 Dawnbloom,8 Brightroot,2 Brightspire ,6 Voidorchid   ,1 Starbloom,4   Yewbark ,9 Ruffles,1  Dryadsbark,2 Sorrowmoss,2 Basilroot, 1  Moonmoss,2  Mandrake,12 Frostcap,4 Stonecap,3 Shimmerleaf ,6  Dimeritium,21 Caelmidus ,  1 Bruxaleaf , 2 Silvertear,  4 Voidfrost,5  Tearleaf,17 Thornlash,2 Goldmoss , 3 Witchhazel, 1 Gravedust,1 Sunmelon,3 Wyvernscale
+ Geralt brews  White Raffards Decay
+  Total  trophy  Griffin ?
+Geralt loots  6  Mistletoe ,1 Skydrift  ,1 Skydaisy  ,2 Wolvenrot ,3 Dragonroot,10 Runestone,3      Belladonna, 2 Winterberry ,2  Caelmidus , 7 Echinops,4  Vermilion  ,6 Dreamreed,  4  Ghostwort, 2 Emberleaf,9 Cryptbark   ,9 Wyvernscale,2 Serpentine , 4 Mistvale ,7 Nightshade  ,2 Sorrowmoss,1 Earthshard ,12 Ironbloom ,2 Aspirin ,1 Wraithbloom ,1 Mandrake ,5 Drakelily,3  Thornlash ,3 Dryadsbark    
+Geralt loots    2 Wolvenrot,2   Emberleaf, 1 Felandaris,  3  Winterberry,6 Dryadsbark, 1 Drakelily, 3  Sorrowmoss,5   Cryptbark ,3 Skydrift,1 Wyverns Breath ,2  Yewbark   ,2  Glimmerdust 
+Geralt trades 2  Archgriffin  ,   5    Endrega   trophy for 1 Wispeye , 4 Wolvenrot , 21 Sunspire ,  2  Serpentine   ,5 Voidfrost,9 Stonecap, 3  Starflower,      5    Elderbloom,2    Echinops,1 Grimshale , 6 Sorrowmoss  ,7  Drakevine,  10    Frostvine,3 Spellthorn,2   Lunarglade, 2   Ruffles,1 Wolfwort,1 Moonseed,4 Murkwood  , 4 Zephyrroot,   1 Basilroot, 1 Goldmoss ,2 Wraithbloom    ,   2 Dimeritium,1   Hearthfire,12 Mandrake, 1 Alchemilla , 1 Bloodmoss ,2   Sagewort
+Geralt trades 2  Ekimmara,12 Bruxa,5   Forktail,10  Cockatrice ,2 Basilisk,7 Lamia , 14 Wraith ,  1  Vampire,8 Noon Wraith,5 Garkain   , 7    Succubus , 9 Lubberkin   ,2 Katakan,18 Nekker,6 Noonwraith,5  Kayran,3 Alp ,  5 Fleder  ,1 Manticore , 7  Siren ,1 PlagueMaiden,4  Striga  ,3  House MD,1 Gaunter , 1 Fiend,8 Nightwraith ,1   Berserker ,2 Vodyanoi , 2 Alghoul ,  2 Draugir, 1 Nightmare  ,9    Hym  ,  1  Harpy ,2  Griffin, 10 Nekkerking,7  Ogroid ,2 Botchling,1 Cemetaur ,3  Rotfiend,12 Zeugl,5  Foglet,5 Arachas,   8 Chort,1   Tribunal ,11 Wight ,5 Werewolf , 1 Harpyia,3    Leshy trophy for  3 Thornlash  
+ Geralt loots          2 Sorrowmoss   ,   1 Frostcap
+ Geralt trades 5   Shaelmaar ,2 Ekimmara,5 House MD,   4 Leshy ,4 Kikimore,5 Werewolf,3    Hym, 5 Alp ,2 Noon Wraith,3 Alghoul,1 Lubberkin ,3 Draugir , 1 Glustyworp ,2    Chernobog,6 Djinn ,1     Vodyanoi ,   3  Ghule,8 Lamia  ,1 Archgriffin, 11  Ghoul  ,2 Arachas, 4 Archespore , 9  Nekker ,2 Bruxa,7 Harpyia,3 Noonwraith trophy  for  4 Sunmelon  , 1 Wolfsbane , 3  Voidorchid
+ What is effective against Alghoul?
+Geralt trades    7 Golem ,  5 Fiend ,8 Fugas  ,12 Leshy,1 Rotfiend, 5 Forktail,   2 Nekker, 1  Lubberkin,   1 Nightwraith,4 Ekhidna,3 Tribunal,3 Kikimore, 5 Bruxa,3 Ghule,  8  Chernobog, 7 Werewolf,2  Troll,22 Leshen ,2 Ghoul   trophy for   4  Spiritrose  ,3 Brightroot, 6  Witchhazel,1 Dusknettle,   2  Ruffles, 4 Thornlash ,    2 Mandrake_Root   ,  2 Felandaris,6 Wyverns Breath, 4  Gravemold, 5 Silverspore ,4 Aspirin 
+  Geralt loots  5  Wraithbloom ,  5  Wolvenrot  , 9 Ghoulgrass,2 Vitriol , 7 Goldmoss,10    Gloompetal,2 Ashthorn 
+ Geralt brews Spirits Solace  
+Geralt loots      17  Wyvernscale,  11 Alchemilla,1 Voidorchid,2 Blackmarrow ,3     Stonecap, 2 Mistletoe ,19    Lunarshade 
+Geralt brews Widowmaker
+Geralt loots  1 Starbloom 
+ Geralt loots 5  Mistletoe,   3  Aspirin , 7  Goldmoss  ,1 Ravensilk,3  Aether,2 Stonecap,   1  Crowseye,  7   Pulmonaria 
+Geralt brews   Widowmaker    
+What is effective against Drowner?
+Geralt loots  10  Belladonna,1  Skydaisy,3  Dusknettle,3 Bruxaleaf,2  Dreadmoss ,5 Silverspore ,  5  Voidfrost,2 Dawnbloom,1 Alchemilla ,7    Sunmelon,    1    Mandrake  ,9 Pulmonaria,5    Firefern,   2  Emberleaf ,4 Dryadsbark , 5   Moonseed, 2  Aether,5   Lunarshade,  17  Frostwisp  , 1 Cryptbark, 1 Rebis ,5   Nightshade,1  Grimshale ,5 Witchhazel     ,4  Mandrake_Root,  4     Wyverns Breath, 4  Duskthorn  ,6 Silvertear,  4  Zephyrroot,2 Crowseye ,  1  Frostvine,7  Wolfsbane,  3 Bloodiris ,6  Brightspire , 8   Aspirin,  3 Vermilion,12   Mistvale, 5 Caelmidus  ,1  Wolfwort , 6  Goldmoss   ,5  Brightroot,  1 Skydrift
+Geralt loots 2 Starflower  ,1 Rebis 
+Geralt encounters asometimes Wyvern
+Geralt loots  8  Winterberry  ,  3 Dawnbloom,8  Silvertear ,7 Runestone , 4 Serpentine,4 Nightshade,11 Goldmoss,      6 Sunspire,2 Firefern  ,  3  Moonseed,12 Sorrowmoss  ,  2  Nightpearl,4   Bloodmoss
+  Total ingredient   Vitriol?
+Geralt brews  Maribor Forest
+Geralt brews Dragons Breath
+ Geralt trades  22 Nightmare , 9   Fiend,1 Fugas,8 Plat*pus, 1 Cemetaur  ,5 Harpy , 3  Chernobog ,5   PlagueMaiden, 8  Rotfiend,5   Ogroid ,1 Berserker  , 15  Sylvan, 1 Devourer,3  Arachnomorph,  2 Ekhidna,1  Gaunter, 1 Archgriffin,6  Slyzard  , 1  Alp trophy for 2 Wyvernscale, 4       Firefern  , 7 Alchemilla, 4 Shiverfern , 7 Dawnbloom 
+ Geralt encounters a  Gaunter 
+ Geralt brews Meliteles Grace 
+Geralt learns Multiple  Spaces   potion is  effective  against   Golem 
+   Geralt encounters a Cemetaur
+Geralt loots 1 Drakelily  ,2  Frostwisp ,12  Necrobloom,1 Felandaris,   5 Elderbloom,2 Darkbloom,4    Skydaisy,8 Winterberry   , 12 Duskthorn,4  Blackmarrow, 4  Shimmerleaf ,5 Mandrake_Root,5  Wolfwort    
+Geralt encounters a Tribunal
+  Total trophy Alp?
+ Geralt learns Wolven Decoction potion  is effective against Chernobog      
+Geralt trades 2 Ghoul,4 Kayran,    5 Katakan, 1   Archgriffin,4 Troll,4 Drowner, 6 Werewolf,4 Chernobog  , 2  House MD,  1 Harpy ,  7  Nekker_King, 1 B4rghest ,   4 Harpyia, 1     Godling,2   Cockatrice,5 Archespore,1 Draugir ,2  Devourer  , 8 Lubberkin,6   Gael ,2    Shaelmaar, 2 Noonwraith,  4 Sylvan ,3 Griffin, 5 Manticore,1  Nightmare  ,1  Gaunter,4  Vampire    ,   2  Bruxa,   7  Ekimmara, 2    Golem trophy for  3  Frostvine,1  Alchemilla , 1 Winterberry,9 Sunmelon, 2    Gloompetal ,1 Tearleaf,2  Glimmerdust,2   Skydrift ,9  Stonecap ,5  Mandrake ,22  Silvertear  ,  4  Earthshard ,6  Wolfwort,1  Drakelily , 3    Voidfrost 
+  Geralt brews Griffin Decoction
+  Total   potion Tawny Owl?
+Geralt learns  Ancient Leshen Decoction potion consists of 2 Lunarglade
+Geralt learns  Silver Tongue potion is effective  against Basilisk 
+What is effective against Troll?
+Geralt loots  2  Starflower ,6  Serpentine ,3 Gloompetal,3  Vermilion ,1 Spiritrose,9 Wraithbloom  ,2  Earthshard,2  Shimmerleaf   , 9   Necrobloom, 7 Goldmoss ,3 Mistvale 
+Geralt brews  Witchers Syrup  
+ Geralt loots     2 Emberleaf     , 4 Wispeye , 1  Skydaisy,4 Dreadmoss,5 Nightshade,3  Witchhazel,1  Crowseye 
+Geralt brews  Foglet Decoction  
+Geralt loots 10 Heartwood ,2 Firefern, 1 Stonecap , 1   Frostcap,8 Wolvenrot,    11 Invalid Ingredient,5 Dusknettle ,3  Dawnbloom,5 Cryptbark , 17 Brightroot,1  Bloodmoss,1   Shadowfern
+Geralt learns  Somne sign  is effective against Kikimore 
+Geralt encounters a  Barghest 
+Geralt learns Noonwraith Decoction potion consists of  2 Voidorchid ,2  Pulmonaria ,5 Feylily
+ Geralt trades  12     Arachas, 7   Lamia ,5   Ogroid,1   Katakan,1  Ghule,  1 Lubberkin,1 Botchling  , 10 B4rghest, 10  Foglet ,        7 Cemetaur ,  2   Slyzard  ,3    Harpyia   trophy  for 2  Shiverfern,1   Aether,4 Wyverns Breath, 4 Zephyrroot ,13   Mistletoe,1 Duskthorn,  1 Ghostwort,  4   Aspirin,7 Gravedust,6 Wyrmsap    ,7 Wispeye,5 Nightpearl ,10   Nightshade,5 Ruffles,5 Gloompetal ,1 Ravensilk,13 Earthshard , 1  Sorrowmoss   , 5  Voidfrost ,2  Trollweed ,  15    Lunarshade,3 Hearthfire ,1 Drakelily,   5   Belladonna    ,2 Witchhazel , 1 Necrobloom,14 Wolfsbane, 8  Echinops  , 3  Starflower,20 Sunmelon,9 Skydrift, 2 Gravemold, 4 Tearleaf, 4 Moonmoss        ,    9 Rebis  ,5 Dusknettle , 4  Silvertear ,4  Mandrake, 3 Spiritrose,2 Frostcap  , 7 Wraithbloom  ,  2  Dreamreed   , 5 Spellthorn,  5  Wyvernscale,1 Mandrake_Root   ,1 Vitriol
+Geralt loots 3 Wraithbloom ,  5  Voidfrost ,7  Starbloom,  5  Vermilion ,1 Zephyrroot,4  Feylily,1 Drakevine 
+ Geralt loots     4 Earthshard 
+Geralt loots 3 Bruxaleaf 
+ Geralt brews  Bl4ck Blood 
+Geralt loots  1 Zephyrroot ,    14 Basilroot,   12  Voidorchid ,4 Hearthfire,4 Sunspire, 3 Murkwood,1 Gr4vity,2      Elderbloom,9   Nightpearl ,2 Tearleaf,2 Shimmerleaf,1  Thundercone , 1   Parol, 2 Stormsage,3 Darkbloom,2 Dreadmoss ,  3  Duskthorn ,2 Wyvernscale , 1 Ghostvine, 8 Serpentine, 1  Wyrmsap ,  2   Mistvale    ,6  Heartwood ,8 Goldmoss,4 Rebis,8 Bruxaleaf     ,4 Skydaisy ,15 Brightspire,7 Caelmidus,3  Dreamreed   , 13 Emberleaf ,   1 Belladonna,1  Dimeritium,3   Stonecap ,5  Yewbark,2 Shiverfern,2 Grimshale   
+Geralt trades   2   Werewolf ,3 Archgriffin ,  2     House MD,7 Koshchey   ,6   Nekker_King ,2 Noon Wraith ,7 Harpyia,1  Lubberkin,  3 Harpy  ,    8  Cemetaur ,4 Glustyworp,2 Manticore ,3 Fugas,3 Dagon ,1 Siren,    1  Kayran     ,5     Chernobog    ,8 Forktail   ,    1 Doppler,3 Barghest, 4 Nightwraith,2  Hym, 7 Basilisk,4 Slyzard ,5  Rotfiend,1 Djinn,7 Ogroid  trophy  for    9 Grimshale ,  2 Goldmoss,10 Mandrake,1 Pulmonaria, 5 Aspirin,8 Nightpearl,7 Rebis,3 Wraithbloom ,6  Aether,3   Gr4vity,4 Thornlash  ,2  Dusknettle,  1  Gravedust, 2    Blackmarrow,2 Wispeye,12   Sorrowmoss  
+ Geralt brews  Lays Firindan 
+ Geralt brews Spirits Solace
+Geralt loots   1 Stonecap, 6  Yewbark, 1 Vermilion 
+Geralt brews  Banewolf Elixir
+  Geralt loots 4    Parol,1 Grimshale,5 Mandrake ,  3 Voidfrost,2 Ironbloom ,11   Dimeritium,   3 Silverspore  
+Geralt loots  3 Wyverns Breath,1 Frostwisp ,    2  Silvertear,4 Dusknettle,10  Ghostvine,2 Ruffles,6  Caelmidus ,5  Gravemold ,13  Lunarshade,2 Moonflower  , 8  Celandine,2 Sagewort,5 Mandrake , 4 Nightshade
+Total ingredient   Brightroot?    
+Geralt loots   2  Ashthorn,9  Earthshard,7      Dawnbloom ,7 Thornlash ,4  Ravensilk ,15 Pulmonaria,7  Hellebore,4  Voidfrost 
+Geralt trades 10   Garkain,11 Zeugl,3  Griffin , 2 Troll ,11 PlagueMaiden, 3 Arachnomorph,8 Fleder, 5  Dagon,10 Doppler,3 Ghule ,1 Alghoul,3  B4rghest,  3 Draugir,6 House MD ,3 Harpy,4   Wyvern, 2 Kikimore,1 Nightmare,      3   Noonwraith, 6 Harpyia, 7 Barghest   ,3     Ogroid,3 Gaunter  ,1  Foglet  trophy for   4 Invalid Ingredient ,1   Wolvenrot, 6 Dawnbloom,1 Nightpearl ,7  Crowseye,4 Caelmidus, 14 Goldmoss ,  5 Ghostvine, 1  Feylily    ,  18 Bruxaleaf,3 Starflower,1 Nightshade
+Geralt loots 3 Lunarshade ,3    Dryadsbark, 3 Nightpearl  ,8 Hellebore, 1    Sagewort ,13   Earthshard,1     Frostvine,5  Vermilion, 16 Thornlash  ,6    Runestone,  6 Skydrift ,5 Silverspore,5   Rebis    , 4  Stonecap  ,    1  Shiverfern,2 Ruffles  ,8 Shadowfern,4 Mistletoe, 1  Shimmerleaf,2 Pulmonaria  , 3 Gr4vity ,5  Sunspire ,3  Wolfwort
+What is effective against Doppler  ?
+Geralt loots  2 Aether,3  Nightshade,1  Mistletoe,     19 Voidorchid,6  Mandrake ,3 Dawnbloom, 12  Moonmoss, 9   Alchemilla,1 Caelmidus,8  Gr4vity,2 Frostvine,4 Skydaisy, 3  Stonecap
+  Geralt brews Katakan Decoction
+   Geralt encounters a  Striga 
+   Total  Thornlash ingredient?
+   Geralt trades  1 Alghoul,4 Harpy  , 10  Ekhidna,3 Harpyia,2 Tribunal ,4 Slyzard , 1    Chort, 8    Wight,4  Werewolf, 3 Griffin, 1 Lubberkin  ,1 Wraith  , 4 Lamia,5   Leshy,7    Cemetaur,6 Gael,  5  Shaelmaar trophy  for   6  Skydaisy,  1  Frostvine, 1 Rebis, 4 Elderbloom ,  4 Spellthorn,    2 Heartwood,1  Lunarshade,4 Tearleaf,2 Wispeye  ,2   Invalid Ingredient,    1 Basilroot
+Geralt loots 2   Echinops,5   Earthshard,7  Stormsage, 5 Wraithbloom,3 Duskthorn , 5 Silverspore,   16  Belladonna , 3 Sunspire,5 Frostwisp , 3  Shimmerleaf,5 Dryadsbark
+   Geralt learns Griffin Decoction  potion consists of   1 Hearthfire,  1  Brightroot, 1  Lunarglade,9  Thornlash    ,8  Wolfsbane    
+Geralt loots 15 Basilroot,    5 Wolfsbane ,2 Stormsage,4 Brightspire     , 3 Frostcap ,5 Frostvine,1 Heartwood      ,1 Winterberry,1 Ghostvine,  15    Hearthfire,2   Ghoulgrass, 5 Blackmarrow,11  Silvertear , 2  Starflower,2 Drakelily,11 Echinops ,12 Grimshale, 4 Nightshade,4  Tearleaf ,  2 Cryptbark  ,9 Wyrmsap,  11  Ironbloom ,8 Shimmerleaf   ,   1  Thornlash,3 Skydrift ,28 Spellthorn,5  Mandrake_Root,5 Moonflower , 4    Dragonroot, 4  Runestone ,6 Glimmerdust  
+Total potion Wyverns Sting ?
+Geralt loots   3 Starflower,   2 Ashthorn  ,1 Starbloom , 3  Mistletoe , 3 Ruffles ,   4 Caelmidus 
+Total  researchpotion   Fiend Decoction? 
+What is effective against  Ghule   ? 
+Geralt trades 1 Arachnomorph,7 Botchling,1  Katakan,1  Nekker    trophy   for      1  Voidorchid ,4  Moonseed  ,1 Ashthorn ,4 Ghostvine, 5  Invalid Ingredient ,1 Alchemilla ,1  Ruffles,1 Moonflower,1 Hellebore, 10 Blackmarrow,2 Silverspore,   2 Sunspire ,6 Wyvernscale ,6 Pulmonaria,4 Wyrmsap, 10 Basilroot,1 Dimeritium ,5 Moonmoss, 1 Dusknettle , 3 Brightspire,4 Gravemold,3 Echinops , 1  Lunarshade     
+Geralt learns  Mortis sign is effective against  Leshy
+  Geralt loots   1 Mandrake_Root,  1 Voidfrost,  5 Sunmelon ,4 Gravedust , 1 Wolfsbane,2 Bruxaleaf  ,2 Lunarshade,2  Nightshade 
+     Geralt loots  3 Skydrift,8 Invalid Ingredient, 1  Caelmidus,2   Emberleaf 
+Geralt encounters a  Berserker 
+ Geralt encounters a Harpyia 
+Geralt loots   11 Sunmelon      ,4    Yewbark,3 Sunspire,  5 Brightroot  ,1 Duskthorn,3 Moonflower,3   Gr4vity,3 Crowseye ,5  Frostwisp,8 Sorrowmoss ,4 Wolfwort  ,3management   Darkbloom ,2   Belladonna,1 Wyrmsap  ,7 Wyverns Breath , 1    Mandrake,  1 Gloompetal ,13 Felandaris, 2  Trollweed 
+  Geralt loots   16  Duskthorn ,14  Frostwisp, 1 Dimeritium,7 Shimmerleaf , 14 Wyrmsap ,1  Blackmarrow,1  Ghostwort , 1  Trollweed, 7   Wraithbloom, 3 Voidfrost  ,4 Silverspore   ,5 Runestone  ,6 Dragonroot  ,12 Basilroot,5  Grimshale  ,3 Drakelily ,   6 Mistvale,6 Shiverfern, 4 Wolfwort ,   4 Aspirin,3 Invalid Ingredient,6 Hearthfire, 1    Zephyrroot,3 Sunspire ,  8 Spellthorn 
+Total       ingredient  Crowseye   ? 
+Geralt loots 1 Frostvine,8    Sunspire   ,  2 Dreamreed   , 1  Zephyrroot   , 2 Gloompetal,1 Mandrake_Root ,7     Drakevine, 2  Voidorchid  ,6 Celandine  ,4 Invalid Ingredient ,  6 Feylily,3 Hellebore,2    Bruxaleaf 
+  Geralt brews Necrophage Oil 
+Geralt trades 1  Troll, 5 Arachnomorph  ,1 Leshen,6    Leshy,1 Godling, 5 Ekimmara, 2 Striga ,12  Archgriffin,1 Nightwraith,2 Nekker_King , 3  Noon Wraith      trophy    for    5  Gravemold,11   Sagewort,1 Frostvine 
+Geralt loots    1 Witchhazel,2 Voidorchid, 6 Wyverns Breath,3   Gravemold ,5 Celandine,3 Crowseye,1 Bloodmoss, 6  Bruxaleaf ,1 Starflower ,5 Dimeritium,1 Emberleaf,5 Murkwood      ,1 Nightshade,5    Moonflower  , 7   Dawnbloom,3 Caelmidus, 8 Mistletoe,9 Ghoulgrass,1  Lunarshade, 6   Runestone, 3 Skydrift,20  Shiverfern, 2 Glimmerdust, 3 Moonseed ,7   Vermilion ,1  Shimmerleaf,  7    Spiritrose ,10  Dreadmoss ,8 Wraithbloom,4 Parol,4    Ravensilk  ,7 Ghostvine,5  Thornlash,4  Wyrmsap ,5  Ashthorn ,4 Thundercone  ,   1 Gr4vity,3 Drakelily     , 2 Wolfsbane,1 Skydaisy,5   Aether, 1 Yewbark,1 Shadowfern ,1 Rebis ,2 Frostwisp, 10  Mandrake,6   Dragonroot,1 Bloodiris , 1 Sagewort   , 3 Dreamreed,6 Hellebore,  1 Mistvale  ,5 Wolfwort, 4 Nightpearl,3   Trollweed,5 Alchemilla ,7 Belladonna   ,   11   Frostvine,2 Gravedust,5 Dryadsbark, 14   Ironbloom,1 Earthshard, 8 Elderbloom,1 Frostcap ,4   Heartwood,2 Silverspore,3 Brightspire  
+Geralt brews Fiend Decoction
+   Total potion  Ekimmara Decoction  ?
+   Geralt loots  8 Dreadmoss, 1 Hearthfire,3 Spiritrose,1 Gravemold,4 Starbloom,   10 Wolfsbane,2  Murkwood , 1  Shiverfern,7  Ruffles  ,6  Gr4vity,2  Shimmerleaf , 3 Nightpearl,7 Hellebore,2 Silvertear ,   4  Brightroot ,3 Pulmonaria, 1 Starflower,9 Ghostvine,6 Glimmerdust,2 Brightspire ,4 Sorrowmoss,  1   Wolfwort,1  Aspirin 
+Geralt brews  Black Blood
+Geralt loots   4  Wolfwort,4  Wyrmsap,8 Shimmerleaf, 1 Sorrowmoss,5 Silverspore ,2  Thundercone ,1  Voidorchid,2 Stormsage , 1 Witchhazel,4 Zephyrroot,4 Frostcap, 1  Spellthorn, 1  Invalid Ingredient  ,   2  Skydrift  ,3 Stonecap,3 Aether,4 Basilroot,2 Voidfrost,3 Moonseed ,4 Rebis, 1 Runestone,3       Cryptbark,10    Brightspire ,3 Elderbloom, 9  Felandaris,3 Gr4vity,1 Murkwood ,8  Lunarshade, 4   Mandrake, 6  Aspirin,4  Mandrake_Root,7 Tearleaf  ,  2 Glimmerdust , 3 Belladonna,4 Winterberry,12 Gloompetal,5 Wolvenrot , 5  Frostvine
+Geralt loots  1 Spellthorn, 6 Frostwisp,    2 Shiverfern,1  Mandrake,   1 Voidfrost  ,  1  Glimmerdust  ,3 Tearleaf,1 Nightpearl ,   11   Brightspire ,4  Mandrake_Root,    1 Starbloom,2  Hellebore,12  Aether,2  Dreamreed, 2  Wolfsbane,6 Witchhazel,2   Invalid Ingredient, 1 Goldmoss,8  Felandaris, 1 Zephyrroot ,1 Skydaisy,1   Dragonroot,13 Yewbark ,2  Trollweed , 2    Parol ,9 Sagewort , 12 Mistletoe,  2 Silverspore , 2  Vitriol,13    Wraithbloom ,4 Dawnbloom  ,3   Serpentine,7  Gloompetal,4  Stonecap,3  Vermilion ,2 Rebis,8   Hearthfire,4 Sunspire  
+Geralt loots   3 Dragonroot, 14  Nightshade , 1 Brightroot ,    3 Belladonna,   2 Dreamreed,  2  Drakevine ,1  Wolvenrot, 4  Voidorchid,    1 Murkwood , 7 Ironbloom ,6 Dryadsbark ,  7 Ghoulgrass  ,5    Moonseed   ,2 Sunspire,7 Sagewort,1 Aether, 1 Wolfwort     , 5 Frostwisp ,3 Sorrowmoss ,4   Parol,5 Echinops ,6 Frostvine  , 2 Pulmonaria,  1  Invalid Ingredient, 3 Necrobloom,  4   Silvertear ,      7 Mistvale  , 4    Heartwood,3 Shimmerleaf ,8 Emberleaf ,5  Vitriol , 2 Vermilion , 6  Wraithbloom, 7 Gravemold,2 Lunarglade
+ What is effective against  Wight?   
+ Total   trophy  Lubberkin ?
+Geralt loots  3 Tearleaf, 2  Emberleaf,2  Silverspore,2    Silvertear,2 Necrobloom,10 Hellebore,1 Brightspire
+Geralt trades  2 Leshy ,1 Fleder , 1 Alp,6     Doppler,6 B4rghest   trophy  for     7 Aether,1  Glimmerdust,    2 Rebis ,6 Trollweed,  11   Goldmoss, 1  Celandine ,6 Drakevine  ,1 Tearleaf,5 Caelmidus,1 Mandrake_Root,5 Heartwood , 1 Mistletoe, 5 Blackmarrow
+Geralt brews Relict Oil
+ Geralt brews Wraithseed Extract     
+Geralt loots   8  Gravemold 
+Geralt loots   1 Dreadmoss     
+Geralt loots  5  Echinops,12 Ghoulgrass, 2 Mandrake,7 Brightroot,3 Skydaisy,2  Wispeye,6 Necrobloom,2 Goldmoss   , 2 Earthshard,9 Spiritrose,1   Heartwood
+ Geralt learns Thistle Tea   potion consists of     5 Shiverfern,1  Firefern,  12 Witchhazel,8 Skydrift,15 Aspirin   ,14   Wolvenrot,2  Ironbloom,1  Blackmarrow,10 Vermilion,2 Belladonna ,2 Frostvine,1 Spellthorn,1  Elderbloom  ,4  Dragonroot, 2 Vitriol
+Geralt encounters a Draugir  
+Total trophy  Kikimore?  
+ What is in Thistle Tea?
+ What is effective against Nekker_King?   
+   Geralt learns  Bloodmoon Elixir potion is effective   against  Koshchey    
+Geralt brews Relict Oil
+Geralt loots   2 Brightspire,   1 Emberleaf,8  Frostvine, 3 Ruffles . 1 Gravedust ,1 Sorrowmoss  ,2 Silvertear,4  Thundercone,7 Voidfrost  ,  17 Wolfwort,1 Bloodmoss ,3   Starbloom, 9 Skydrift , 3 Heartwood,  11 Crowseye    ,  2 Elderbloom   , 3   Shimmerleaf,1 Echinops,1 Mandrake_Root,  3  Blackmarrow,2 Duskthorn,4   Runestone, 1  Wispeye , 4  Frostcap, 1 Mandrake, 3 Ironbloom  ,1  Ashthorn  ,11 Skydaisy , 1 Voidorchid,2   Drakelily ,2 Wraithbloom, 3 Shiverfern   , 1 Stonecap  ,3   Spellthorn,29 Firefern ,3 Sunspire,  4 Lunarshade,3 Ghostvine ,6 Dreamreed, 1 Bloodiris, 3 Mistletoe,5 Shadowfern,5  Wolvenrot     , 1   Vermilion ,  6  Starflower  , 2  Drakevine,4 Alchemilla,5 Witchhazel  
+Geralt loots   5 Frostvine ,1 Bloodiris, 3 Dusknettle, 5 Zephyrroot  , 5  Shadowfern ,9 Bloodmoss ,2 Sorrowmoss,2 Parol, 1 Gloompetal ,  2 Vermilion,  4 Alchemilla, 4 Stonecap,2  Murkwood ,9 Grimshale ,4 Rebis,5   Ironbloom,  1 Aspirin,2 Dawnbloom,1 Mandrake ,2  Wolfwort , 2   Vitriol 
+Geralt loots 1  Spiritrose,10 Wolfsbane ,3 Sunspire , 3 Parol,1 Gravedust ,3 Dreamreed  ,3 Hellebore,6   Cryptbark,7 Stormsage,5  Gravemold, 1 Alchemilla, 4 Wraithbloom,10 Sorrowmoss, 5 Rebis,1 Lunarshade   ,6  Murkwood   ,  2 Pulmonaria   , 2 Frostcap,2 Shadowfern,10  Tearleaf , 9 Shimmerleaf,  7  Trollweed,1 Sunmelon,4  Wyvernscale , 1 Wolvenrot,   10 Ravensilk,4 Thornlash,5 Mandrake  , 3 Crowseye, 1  Ruffles,3 Ironbloom, 17  Starflower,1 Dreadmoss,1    Voidorchid,  5 Elderbloom,1 Starbloom   ,2 Wolfwort,1   Moonflower,4  Frostvine  , 9  Drakelily , 2  Wyverns Breath, 6      Caelmidus, 2 Heartwood ,  3 Wispeye , 4     Gr4vity,1 Basilroot,6  Earthshard,2 Goldmoss,1 Dryadsbark,1  Grimshale, 2   Yewbark,7 Brightspire,3  Bruxaleaf,  1  Spellthorn ,17 Moonseed,2  Runestone  ,  2 Silvertear, 9 Vitriol,1 Winterberry ,4 Invalid Ingredient
+Geralt brews Ekhidna Decoction
+What is in Multiple Spaces   Again?
+ Total ingredient Blackmarrow? 
+ What is effective against Draugir?  
+ What is effective against Botchling ? 
+Geralt brews Drowner Decoction    
+Geralt loots 2    Trollweed,1 Dimeritium ,3  Felandaris,8  Sunspire,3 Bloodiris,     5 Ashthorn , 3 Sunmelon,1 Thundercone,  4  Mandrake_Root, 2   Mandrake,5 Elderbloom,  3  Runestone  ,2 Crowseye,    1  Hellebore,  3  Mistvale ,2     Tearleaf,8 Shimmerleaf,  1 Thornlash ,4 Gravemold,1 Cryptbark     ,    3 Wolvenrot ,3 Dryadsbark , 5  Blackmarrow,1 Silvertear , 1 Ghostvine,1  Ironbloom, 6  Wraithbloom, 1 Darkbloom, 5  Basilroot, 2 Voidfrost,1  Frostcap  , 2     Dreadmoss,5  Moonseed ,   1 Vitriol  ,     8  Shadowfern,6 Feylily , 1  Rebis,1 Earthshard ,4 Wispeye ,2 Lunarshade,  5 Wyvernscale  , 2   Gloompetal  ,8  Drakelily,3 Sagewort, 21 Yewbark, 9 Sorrowmoss ,2   Wolfwort , 3  Nightshade,8  Heartwood , 2 Voidorchid,3 Lunarglade,4 Aspirin ,1 Necrobloom,3  Echinops 
+Geralt brews  Glimmering Dust 
+ Total trophy  Noonwraith ? 
+Total     ingredient Trollweed ?
+What is in Draconid Oil ?
+Total ingredient Wispeye?
+ Geralt loots 14  Duskthorn  
+Geralt learns Sunstone Dust potion is effective  against  Lamia
+Geralt loots 3   Dragonroot ,4 Aether ,5 Basilroot,2 Bruxaleaf, 1 Sunspire ,4 Shadowfern,1 Felandaris,1 Mistletoe,1 Wolfwort,  1   Mistvale , 1 Trollweed,3  Grimshale  ,8 Firefern,2  Aspirin   ,2  Starbloom   
+Geralt brews Griffin Decoction 
+Geralt brews Tawny Owl
+ Geralt brews  Multiple  Spaces
+Geralt loots 1 Wolfsbane
+Total potion  Alghoul Decoction ?
+Geralt loots 12 Zephyrroot,4 Feylily,1  Hearthfire  , 2   Serpentine, 9  Wraithbloom , 5 Elderbloom,4  Mistletoe, 3    Ghoulgrass, 5  Shimmerleaf  ,    5  Nightpearl,2 Ironbloom,6 Wyrmsap, 22   Celandine ,4 Necrobloom,   1   Vitriol, 5 Bloodiris ,1 Brightspire   ,5 Skydaisy
+Geralt loots 10 Wolvenrot, 10  Necrobloom,6  Ruffles,4 Ghostvine,  1  Aether, 2 Sorrowmoss ,13  Tearleaf,2 Spiritrose, 5 Bloodiris,2 Gloompetal,5   Darkbloom , 1 Celandine ,   2 Vermilion ,2 Gravemold, 13  Wyvernscale,3 Aspirin ,3  Gr4vity,4 Moonmoss ,12    Sunmelon,    6 Voidorchid,14 Dragonroot, 5 Mistletoe,4 Duskthorn   ,1 Echinops,9 Feylily,1 Silverspore ,1  Cryptbark,7 Lunarshade ,5 Wispeye, 7  Heartwood, 4 Shadowfern ,2 Vitriol,4  Pulmonaria ,10 Wolfsbane,8   Felandaris  ,8 Basilroot   ,4 Starflower,1  Bloodmoss ,1 Winterberry,1 Earthshard,1 Yewbark  ,4  Frostwisp  , 1 Shimmerleaf  ,3    Mistvale ,5 Grimshale, 1 Serpentine,27 Murkwood,1  Voidfrost  ,2 Zephyrroot,4  Shiverfern, 3 Goldmoss,7  Glimmerdust,2 Starbloom ,1 Nightpearl, 6  Drakevine
+ Geralt loots  6 Dawnbloom    , 6 Glimmerdust
+Geralt loots 1 Necrobloom  ,1 Goldmoss ,2 Dawnbloom  ,6 Ashthorn ,4 Trollweed,1  Dryadsbark ,1 Drakelily ,1 Ironbloom ,5 Invalid Ingredient,2    Thornlash,6 Spellthorn,8   Heartwood     
+Geralt encounters a Sylvan 
+Total   ingredient Spellthorn? 
+ Geralt encounters a  Sylvan
+Geralt loots  1 Skydaisy, 9 Crowseye, 6  Feylily
+ Geralt loots   2 Starbloom, 5 Runestone,2 Dreadmoss,3 Caelmidus,1 Drakelily,4  Shadowfern,4  Ironbloom,1    Wyvernscale ,1  Winterberry,10  Nightshade,6  Ghostwort ,1 Wolfwort,  3  Glimmerdust, 1 Ravensilk ,9 Stonecap,6   Drakevine  ,7 Shiverfern ,   1 Spiritrose ,1 Wolvenrot,      1  Dimeritium, 1 Lunarglade ,  1 Elderbloom,  5  Ruffles, 3  Brightroot, 2 Dragonroot,3 Moonflower,  10 Belladonna, 2  Sunspire,5 Ghostvine,1 Wolfsbane    ,1 Alchemilla,5 Skydrift, 3 Silverspore,2   Dusknettle,4 Hellebore ,  1 Echinops ,3 Frostwisp,  3 Wyverns Breath      , 5 Hearthfire,2  Firefern,6 Vitriol,1  Gr4vity ,  2  Shimmerleaf ,3 Trollweed ,  2 Mandrake_Root,1 Thornlash,4 Murkwood,4  Crowseye,   15  Ghoulgrass,9 Mandrake,  19  Thundercone, 3 Goldmoss ,2 Voidorchid  , 7  Dawnbloom,  6 Sagewort ,2 Bloodmoss,6 Grimshale,1 Aether , 19  Duskthorn,5 Witchhazel,7 Earthshard ,1 Gloompetal,4 Cryptbark,6 Frostvine,2 Frostcap 
+ What is effective against Kayran  ?
+ Geralt loots 2 Sorrowmoss
+Total ingredient Brightspire?
+ Geralt loots  1 Drakelily  ,2 Mistvale,3 Echinops,8   Dragonroot, 2 Basilroot,6 Bruxaleaf ,3 Darkbloom   , 4  Ghostvine  ,5  Wispeye ,3 Dreadmoss,2 Gravedust   , 7 Ruffles
+ Geralt encounters a Tribunal 
+  What is in Meliteles Grace?
+ Geralt brews Devils Puffball
+  Geralt trades  1  Draugir,6 Wyvern , 9 Basilisk,10  Ekhidna,3 Berserker ,2  Alghoul   trophy for  1 Aspirin,4 Wyvernscale ,4 Shimmerleaf ,9  Stonecap ,6 Starflower,2  Shadowfern ,5 Dragonroot,3  Dusknettle, 3  Wispeye,  13 Wolfsbane,  1  Bloodiris,   2  Sunmelon,  3 Yewbark
+Geralt trades   6 Koshchey trophy for  1 Ruffles ,6  Runestone,4    Sorrowmoss ,  2  Starflower,3  Mandrake   , 4 Glimmerdust,3 Spiritrose ,1  Ghoulgrass ,    1 Crowseye ,3 Vitriol   ,  5 Mistletoe,3 Thornlash,4 Moonseed  
+  Geralt brews  Full Moon  
+Geralt loots 2 Witchhazel,3 Ironbloom
+ Total  ingredient Moonseed? 
+ Geralt learns  Cat  potion is  effective    against B4rghest 
+Geralt loots   4  Crowseye, 9 Witchhazel, 1   Runestone, 2 Frostwisp ,  2 Pulmonaria , 1  Starbloom    , 9 Gravemold, 1   Echinops
+Geralt brews Bl4ck Blood
+   Geralt encounters a Sylvan
+Geralt trades 4  Harpyia ,   3 Siren,4 Ghoul,   4 Ekhidna  trophy for  19  Crowseye, 3  Nightpearl  
+Geralt learns  Blizzard potion consists  of 12 Stormsage,4  Wolfsbane ,10   Felandaris,4 Elderbloom 
+Geralt loots  2 Trollweed,     2   Parol,2 Wyvernscale, 2 Runestone,7 Thornlash ,   8      Vermilion   ,9  Gravemold , 4 Frostvine,2  Cryptbark,    4       Spellthorn,1 Echinops , 4 Voidorchid,  4  Glimmerdust ,6 Invalid Ingredient ,1 Gloompetal,1 Mandrake_Root,  6 Ironbloom, 5   Blackmarrow,2 Wolfsbane , 1 Skydaisy, 4 Nightpearl,4 Necrobloom,2 Wyrmsap,   19   Gr4vity,2 Emberleaf  ,  3   Vitriol,8  Grimshale,  1  Wyverns Breath,2  Dragonroot, 7 Wispeye ,  1 Starflower,7   Dreadmoss, 1 Sorrowmoss  , 9  Shiverfern,  13  Brightspire , 2 Dusknettle, 12 Shimmerleaf , 11 Aether,3  Duskthorn,1 Drakelily,2   Caelmidus,1 Spiritrose ,4 Starbloom, 2 Bruxaleaf,8 Serpentine,4 Yewbark , 6 Tearleaf ,4 Murkwood,8  Moonflower, 2 Thundercone  , 2 Winterberry,6 Sunspire,3 Sunmelon ,2  Lunarshade , 2  Lunarglade,1 Witchhazel,3  Dryadsbark , 4 Goldmoss,1 Brightroot,1  Basilroot, 3 Bloodmoss ,2 Feylily, 1 Zephyrroot,7 Moonseed,3 Frostcap,    2   Stonecap    ,1 Wolvenrot,1  Darkbloom
+Geralt learns Silentium sign  is effective against   Troll
+Total ingredient Vermilion? 
+Geralt brews Duskwraith Tonic
+  Total potion Fiend Decoction?
+Total    potion Wolven Decoction?
+Geralt loots 17 Moonseed,  2 Moonflower , 6  Frostwisp,5 Brightroot,1 Trollweed,   3 Brightspire, 6 Mandrake , 4 Spiritrose,  5  Rebis,4 Dimeritium ,1 Sunmelon
+Geralt brews  Griffin Decoction  
+     Geralt loots  6  Elderbloom,2 Hellebore,  5  Felandaris,   6 Ravensilk, 1 Stonecap ,3 Spellthorn  
+What is in   Elder Blood?
+What is in Firestarter? 
+    Geralt learns    Thunderbolt  potion consists of 2 Drakevine ,11 Alchemilla ,2 Silverspore  ,7 Lunarglade, 1 Brightspire,5 Winterberry,7 Nightpearl,2 Runestone,2 Ghostvine,3 Sunspire,8 Mandrake, 2  Bloodiris,14 Hearthfire ,6 Parol,   4  Sunmelon  ,1 Dusknettle,2 Witchhazel,9  Blackmarrow,9 Shiverfern ,5 Trollweed
+Geralt brews Elementa Oil
+Geralt brews  Full Moon
+Geralt loots 1 Darkbloom,2 Dragonroot     , 6 Spellthorn,10 Frostcap ,  4 Dryadsbark  ,3 Blackmarrow,       2 Witchhazel  , 1 Wraithbloom, 14 Earthshard,2  Moonseed,2 Ghostvine,  6 Ruffles ,  1  Moonmoss , 4  Mistletoe  ,3 Winterberry,11   Moonflower,5 Caelmidus ,3 Gravemold  ,   1  Crowseye, 8 Sunspire , 4 Thornlash, 2  Mandrake,4 Feylily,   8 Tearleaf
+Geralt loots  1 Stormsage,2  Lunarglade  
+Geralt loots 5 Moonseed ,    10 Ghostwort  ,1 Sorrowmoss ,3 Grimshale,7  Hellebore,  2  Silvertear 
+Geralt encounters a Sylvan
+   Geralt loots 10  Bruxaleaf, 2 Aether  ,  1   Bloodmoss, 5  Shiverfern, 15 Caelmidus, 7  Hellebore
+Geralt encounters a Chort
+   Total  potion  Golden Oriole?  
+Geralt loots    8 Aspirin  ,1   Dusknettle,10 Stonecap  , 6 Moonflower,2    Silvertear,6 Alchemilla,1 Dragonroot ,2 Spiritrose,4   Zephyrroot ,5  Wolfwort  ,1 Frostwisp,  1  Ruffles,16 Basilroot 
+Total    potion Basilisk Decoction    ?
+  Geralt loots 4 Sagewort,  10    Silvertear ,17 Stonecap
+ Geralt encounters a Katakan
+ Total  ingredient   Yewbark ?
+Geralt brews Golden Oriole
+Geralt learns  Hybrid potion is  effective against Ekhidna
+ What is effective against       Gael  ?
+Geralt trades  12 Penitent,1  Forktail,6   Nightwraith,2 Drowner,2 Barghest,1  Doppler,14  Tribunal   ,1 Hym ,  3   Ekimmara,8 Siren,2 Striga , 1  Berserker,  1 Shaelmaar trophy    for 6  Hellebore,  12   Wispeye ,   6 Ruffles,4 Gloompetal, 1 Sorrowmoss 
+Geralt learns  Chort Decoction potion   consists  of 5 Ghostwort , 3  Basilroot, 2 Caelmidus ,8  Alchemilla  ,1 Stormsage  , 1 Wispeye  ,1   Dreadmoss ,2 Glimmerdust  ,6 Brightspire,  4 Wyverns Breath ,1 Dragonroot,1 Silvertear ,8  Necrobloom,4 Ghoulgrass,   3 Thundercone ,5 Spellthorn,3 Ironbloom ,  6 Shiverfern,4 Stonecap, 2 Dimeritium ,7 Firefern , 7  Frostwisp  ,  3  Grimshale   , 1 Ashthorn,   5 Tearleaf  ,5 Nightshade ,6 Ghostvine ,2 Mistletoe,1 Zephyrroot ,2  Dusknettle, 6 Vermilion,   1  Wyvernscale ,1  Murkwood ,3 Lunarshade ,7  Spiritrose, 5    Wolvenrot,5 Voidfrost ,4 Gravemold, 7 Moonflower   , 10 Starbloom, 1   Hearthfire ,4  Runestone  , 2  Voidorchid , 1 Cryptbark   ,2 Gr4vity ,5 Blackmarrow , 4 Sorrowmoss,  7  Bloodmoss  , 1  Invalid Ingredient  , 5 Belladonna ,   6 Lunarglade,1  Wyrmsap  ,9 Trollweed,9 Drakelily, 5  Aspirin ,  1 Pulmonaria 
+Total    trophy Wyvern  ?
+What is in  Bl4ck Blood?
+ Geralt learns Duskwraith Tonic potion is effective against Archespore 
+Geralt loots 10 Brightroot , 4     Aspirin,2 Spiritrose,1 Dusknettle, 1  Gravedust ,2 Heartwood,2  Brightspire,5 Starflower   
+   Geralt learns  Moonlit Venom potion consists of 7 Wolfsbane,2  Basilroot  , 9  Sagewort,1 Grimshale,2  Mistvale ,10 Mistletoe,4   Lunarshade, 9  Ironbloom,2   Crowseye,6   Sunmelon ,1  Voidorchid,1  Serpentine,  3 Sunspire  
+Geralt learns Phantom Pain potion is effective    against   Wight 
+Geralt brews  Lays Firindan
+Geralt encounters a Fugas
+Geralt brews Wyverns Sting
+ What is effective against Siren?
+Geralt loots  3 Wyverns Breath,7  Caelmidus,    5 Alchemilla  ,3 Sunspire,       8 Moonmoss,  4  Shimmerleaf  ,3 Shiverfern,  8 Silvertear, 1 Wolfsbane, 3 Frostcap,10 Echinops,1 Gloompetal ,  2 Lunarglade,1  Sorrowmoss ,5 Nightshade, 1 Ashthorn,5   Lunarshade , 10 Aspirin 
+Total potion Water Hag Decoction?
+Geralt trades    3 Wyvern,5    Arachnomorph trophy for   1 Basilroot
+ Geralt loots 3 Starflower,1 Voidfrost,1 Skydrift,2 Murkwood , 1 Trollweed  ,3 Rebis,  1 Frostvine,2 Celandine,2 Wispeye  ,17 Nightpearl ,8  Spellthorn   ,1   Basilroot,  2 Voidorchid,2   Brightspire,27 Dawnbloom ,  2 Ghoulgrass,3 Yewbark  ,2 Bloodiris,  5 Zephyrroot,  3 Winterberry,  2 Dreamreed , 6 Felandaris,1  Darkbloom ,   5 Necrobloom, 1 Gravedust,  20  Firefern  ,8 Wyvernscale ,   3 Bloodmoss,9 Dreadmoss  , 8 Gloompetal,2 Stormsage, 1  Sunmelon,3 Ravensilk, 4 Moonmoss,6 Elderbloom,2 Starbloom,10 Goldmoss,8 Tearleaf ,    14 Thundercone,  10   Earthshard  ,17  Skydaisy , 2  Pulmonaria  ,3   Alchemilla   , 2 Ghostvine   
+Geralt loots 2 Wyvernscale,3 Lunarshade  ,3 Gloompetal    ,1 Spellthorn,   3   Darkbloom , 3 Bruxaleaf,13 Goldmoss,1 Brightroot, 13 Skydaisy,6 Silverspore,6   Pulmonaria,11 Gr4vity,1 Basilroot, 4  Thundercone,1 Hellebore   , 15 Celandine  ,2 Aspirin
+Total  ingredient Gravedust?  
+Geralt loots  1  Moonmoss ,4   Wolvenrot ,   2  Wolfwort,3 Brightroot,1 Cryptbark,2 Wyvernscale , 5  Skydrift   ,1 Mistvale,3 Gravemold
+ Total ingredient Gloompetal?
+Total    ingredient   Crowseye?  
+Geralt loots   6  Gravedust ,14  Wyvernscale,1 Zephyrroot,     6 Dragonroot,1 Starbloom,10   Rebis,9  Witchhazel  , 6 Earthshard,7  Moonmoss,5 Darkbloom, 3   Frostwisp ,  3   Starflower,2    Hearthfire,2 Wispeye,2 Ironbloom,1 Gr4vity, 3 Sorrowmoss,3  Vermilion,6 Spiritrose,4 Thornlash,  2  Dryadsbark ,6  Mandrake,4 Brightroot,7 Dreamreed,7 Lunarglade, 2  Voidorchid,4 Stonecap
+What is in Leshen Decoction ? 
+Geralt learns Witchers Courage potion consists of   1 Necrobloom, 10 Sagewort,   3 Hellebore ,6  Gravedust,1 Moonseed, 5  Voidfrost,1  Feylily,2  Wyvernscale,9 Frostvine ,2 Wyrmsap,2 Hearthfire ,1   Dreamreed,5 Witchhazel,   5 Lunarglade,5 Winterberry,   6 Wispeye,  1 Stormsage ,1  Frostcap,1 Parol,5 Trollweed, 3 Bloodmoss, 3 Murkwood
+Geralt encounters a Glustyworp
+Geralt loots  1  Ruffles,2  Silvertear,4  Feylily,2 Zephyrroot,8  Bruxaleaf ,13 Gravemold  , 2 Sorrowmoss , 22 Wyverns Breath,7 Ghoulgrass ,  2   Wolfwort ,  22 Ravensilk ,20 Caelmidus, 2  Frostwisp,3 Thornlash,2 Glimmerdust,14  Brightspire,24 Grimshale,12      Moonseed,2 Moonflower,5 Alchemilla,  2  Echinops  ,1 Hearthfire,16 Nightshade,10 Gravedust,1 Sagewort ,3 Elderbloom, 8 Aspirin,7  Hellebore ,7   Trollweed,6 Frostcap,15 Witchhazel   ,9 Skydaisy, 1   Drakelily,2 Necrobloom,   2 Shadowfern ,1 Blackmarrow, 7  Lunarshade ,1 Wispeye ,1   Shiverfern,1 Dragonroot,3   Drakevine  ,3  Celandine ,7  Darkbloom,3 Moonmoss,2 Winterberry,3 Duskthorn,2  Invalid Ingredient , 3    Firefern ,3 Basilroot,28    Spellthorn    ,2  Voidfrost,1 Bloodmoss
+ Geralt loots     5       Gravedust,2   Sorrowmoss,  4 Felandaris, 1 Moonmoss, 7 Bloodiris ,2 Darkbloom,2 Mandrake_Root,3 Drakevine,2 Moonflower,11  Brightspire, 7 Ravensilk ,  2 Necrobloom,6   Dawnbloom,6 Mistvale ,1 Glimmerdust,1 Blackmarrow,2 Zephyrroot,3 Ghostwort,2  Emberleaf ,3 Frostvine , 3 Frostwisp   ,4 Firefern
+Geralt brews  Bl4ck Blood
+Geralt trades 4  Ghule    trophy for 3     Shimmerleaf,5 Mistvale, 5 Firefern,2 Brightspire    , 4 Goldmoss  ,2  Alchemilla, 6 Ghostwort,4  Wyrmsap,4 Nightshade,17 Ravensilk,4 Winterberry,     1 Dryadsbark,17   Emberleaf,2 Shiverfern
+Geralt loots 1 Sorrowmoss,3 Wyverns Breath ,2  Silvertear ,1 Glimmerdust,4   Parol,  8 Thornlash,5  Gloompetal, 11  Sunmelon ,  2  Ghostwort 
+ Geralt loots   5 Brightroot,8   Aether, 10  Ravensilk ,6 Wyverns Breath,21 Skydrift    ,6  Runestone, 1 Stormsage    
+Geralt loots      5 Sunspire ,18  Yewbark ,22 Frostcap  
+Geralt loots 2  Parol,3  Wyverns Breath ,6  Darkbloom ,3  Necrobloom;1 Dawnbloom   
+  Geralt loots  4      Wispeye,2 Wyverns Breath
+Geralt brews Maribor Forest  
+Total  trophy Fiend? 
+  Geralt loots 4  Dragonroot,1 Skydrift , student5 Rebis,3 Belladonna ,3  Wraithbloom   ,  1   Mandrake_Root, 2 Duskthorn ,  7 Gravemold , 2 Mistvale , 10 Stonecap,2  Nightshade ,6 Earthshard   ,2 Frostvine ,6 Silvertear  ,3  Dimeritium,9 Dreamreed ,5 Sorrowmoss,  6 Tearleaf,4 Moonseed,     1 Wolvenrot ,     2 Bruxaleaf  ,2 Hearthfire,1 Gravedust  ,3    Glimmerdust, 3  Vermilion  , 5 Dusknettle,2  Zephyrroot ,2 Thornlash ,4 Feylily,2     Ravensilk 
+Geralt learns Sunstone Dust potion is   effective against  Wight
+Geralt brews Hanged Mans Venom  
+Geralt encounters a  Ifrit
+ Total potion Specter Oil?
+ Geralt brews Maribor Forest  
+Geralt loots 8  Goldmoss,4 Caelmidus
+Geralt loots    14 Echinops,7  Caelmidus,1 Basilroot
+Geralt loots    1 Ghostwort ,  3   Witchhazel , 9 Spiritrose,4  Winterberry,8 Vitriol,5 Mistvale, 4 Dawnbloom,7  Invalid Ingredient ,6  Brightspire, 2  Caelmidus ,3 Darkbloom, 4 Grimshale  ,11  Glimmerdust,4  Lunarglade ,1 Dragonroot  ,   6 Spellthorn,6 Wyrmsap,2    Wyverns Breath, 1  Ghostvine,8  Skydaisy ,3 Sunmelon, 7 Thundercone ,3 Hearthfire, 8 Yewbark,5 Moonmoss,7 Ruffles,2 Wyvernscale,1    Stormsage   ,5  Mistletoe        , 2  Vermilion,20 Parol, 7  Rebis  ,1 Lunarshade ,2 Frostwisp ,  5 Elderbloom  ,24   Firefern,2  Nightpearl,3 Dreadmoss,5  Bloodmoss  ,4  Feylily,    5 Brightroot,8 Cryptbark  ,2   Crowseye ,10 Mandrake_Root,1 Ghoulgrass,1 Aether ,8    Belladonna ,  11 Sagewort , 7  Gr4vity, 17  Blackmarrow ,3  Pulmonaria,5   Dryadsbark  ,4    Wraithbloom 
+Geralt loots   2 Frostcap,4 Ironbloom,4 Aether, 10 Shiverfern,  1 Belladonna 
+Geralt loots   6  Earthshard ,1   Parol, 12 Basilroot,12  Stormsage,2   Moonmoss,9 Ashthorn ,3 Alchemilla 
+Geralt brews   Banewolf Elixir 
+What is in Maribor Forest? 
+Geralt learns  Wolven Decoction potion     consists of 6 Vitriol,2 Ashthorn,5  Alchemilla , 3    Earthshard,4 Moonflower,3 Frostwisp,1 Belladonna, 9  Mandrake,9 Hellebore ,1 Silverspore,    4 Cryptbark ,2 Pulmonaria,10 Sagewort,3  Frostvine , 5 Winterberry, 3 Wolvenrot  ,13  Sorrowmoss,  1 Wolfsbane,10 Voidfrost,1  Wolfwort,  5 Ghoulgrass   , 2    Gravemold,2 Dryadsbark,15 Blackmarrow,8 Sunspire 
+Geralt trades 1   Cockatrice , 5  Archespore,2  Noonwraith, 1  Ekimmara,  4 Ghoul,5 Harpy  trophy for  4  Stonecap   , 13 Vitriol,   9 Silverspore  , 1 Belladonna     ,1  Brightspire   ,9 Emberleaf,8 Firefern  ,4 Bruxaleaf,10 Caelmidus, 3   Gravedust,   8  Duskthorn  ,1  Dryadsbark,2       Zephyrroot,4 Skydaisy,6   Aspirin,3  Goldmoss  , 2 Ghostwort , 1 Darkbloom, 1 Echinops,11   Feylily , 3    Wyvernscale ,2 Vermilion,1 Skydrift , 4 Ghostvine, 3 Sunmelon       ,1 Runestone,   19 Winterberry  
+Geralt loots  1 Sorrowmoss ,  11  Brightroot,3 Frostwisp , 3  Trollweed,17 Aether,4 Wispeye,3 Skydaisy, 8  Heartwood,2 Frostcap 
+  Geralt loots 7 Silvertear,1   Shiverfern,    3  Spellthorn
+ Geralt loots 12 Emberleaf,1   Heartwood,2  Crowseye    , 2 Gr4vity  
+Geralt loots  1 Rebis ,1 Mandrake_Root,1 Gravedust,7 Moonflower ,10 Drakelily,1 Ruffles ,  4 Silverspore 
+Geralt brews  Leshen Decoction
+Geralt loots 2   Mandrake,2    Ruffles ,7   Crowseye,  5  Pulmonaria ,1 Bloodiris,  10   Duskthorn,1 Witchhazel,2 Ironbloom ,  1  Vermilion,  3 Alchemilla,1 Sagewort,2  Frostvine,16 Wyvernscale  ,4 Hellebore,1 Felandaris,1 Cryptbark,2   Vitriol, 10 Gr4vity,7 Shimmerleaf   , 1 Ravensilk,3  Silvertear, 3 Earthshard , 2 Dryadsbark,12   Parol
+  Geralt loots 5 Moonseed ,   6 Witchhazel ,4  Frostcap, 2 Aether,3  Cryptbark,1  Duskthorn,2 Ghostwort ,1   Basilroot,1  Vitriol ,1 Blackmarrow,8 Wyverns Breath, 2 Skydrift ,2 Dragonroot, 3 Necrobloom , 2 Thornlash, 6  Stormsage,4 Trollweed,1 Firefern   ,  12 Ghoulgrass,2   Invalid Ingredient  ,37  Hearthfire,12  Dawnbloom ,2  Mandrake  ,1     Ruffles
+Geralt encounters a  Nekker_King 
+Geralt loots  4 Thornlash  , 5 Dusknettle  
+Geralt loots   4 Trollweed     , 1 Crowseye,2  Shadowfern,4 Zephyrroot,1 Gloompetal, 4 Spellthorn , 2 Wolfwort,1 Gravemold,3    Necrobloom  ,1  Felandaris,5  Witchhazel, 4 Drakelily ,   2 Shiverfern  ,4 Belladonna, 1 Duskthorn,1 Aether,4 Shimmerleaf  , 6 Echinops  , 1 Dreamreed ,1 Dragonroot,5 Gravedust,  1  Starbloom, 9 Grimshale ,3 Heartwood,6   Dawnbloom , 12 Dimeritium,3 Dusknettle,2   Mandrake , 2  Dreadmoss,8 Frostcap,3 Wyverns Breath   ,6  Bloodmoss,   1    Sagewort ,4 Alchemilla ,2 Moonseed,  7 Darkbloom,2 Wolvenrot, 10 Voidorchid    , 3  Serpentine,  3 Elderbloom  ,  4 Gr4vity, 7   Lunarglade,4     Wraithbloom,7 Winterberry, 8 Brightroot,   6  Frostvine,4 Skydaisy, 1 Thundercone, 3  Ironbloom  ,  4 Feylily
+Geralt loots 2 Dusknettle , 3 Darkbloom,2 Vermilion,   11   Dawnbloom  ,9 Necrobloom,  9   Ruffles,2  Winterberry,6 Dimeritium  
+  Geralt brews Meliteles Grace
+Geralt learns Dragons Breath   potion consists of   1  Yewbark,4 Ashthorn, 8  Murkwood, 4  Grimshale,5   Frostvine ,1 Silverspore,2 Silvertear ,5 Dawnbloom,3 Moonseed, 6  Lunarshade
+ Geralt brews Moonlit Venom
+ Geralt encounters a   B4rghest
+Geralt loots 2 Blackmarrow,1 Wyvernscale  ,4 Emberleaf,4 Pulmonaria,  21 Heartwood,11  Brightroot,   2 Voidfrost   ,  2 Elderbloom ,4  Zephyrroot, 3 Sorrowmoss,   10 Drakevine, 3 Shiverfern   ,  21 Skydrift  
+Geralt loots 1  Stormsage,1 Thornlash  , 1 Feylily ,3 Ghostwort,4 Dryadsbark  ,2  Parol,8 Cryptbark ,22 Moonseed ,  4 Stonecap ,1 Mandrake_Root ,  1 Silvertear,1  Dreamreed,1 Spellthorn,3  Goldmoss ,  9 Elderbloom,8  Ghoulgrass,7  Caelmidus,2 Basilroot ,2  Firefern,6 Witchhazel  ,4 Bloodmoss  , 7 Skydaisy,1  Heartwood, 1  Gravemold , 6 Bloodiris    ,   14 Aether ,1 Voidorchid, 3   Wyrmsap ,2  Felandaris,  1 Vermilion 
+Geralt loots 2 Gravedust,7 Feylily,2 Caelmidus,   14 Mistletoe ,3 Ghostwort ,2      Winterberry,4 Invalid Ingredient,  3 Glimmerdust,4 Wyvernscale, 2 Blackmarrow  ,  1 Starflower  
+Geralt encounters a  Fiend  
+Geralt encounters a  Ifrit
+ What is in Wraithseed Extract?
+Geralt loots   7 Starflower  ,  11  Wispeye,2 Murkwood,10 Voidorchid,12 Wyverns Breath, 4  Witchhazel    ,2 Blackmarrow  ,  8  Wyvernscale  ,5 Frostcap,   7   Mandrake , 1 Thundercone,18  Ironbloom , 6   Wolfsbane, 5  Sagewort     ,2  Duskthorn,3     Spellthorn,3 Dimeritium,1 Moonflower,1 Trollweed,4 Frostwisp,7 Nightshade,1 Vitriol ,3 Skydrift
+ Geralt loots  1  Ghostvine   , 3 Pulmonaria, 2 Wyvernscale, 1   Skydrift ,1   Ravensilk,5     Spellthorn  ,  6 Mistvale ,4  Wolfsbane,16 Sunmelon ,1  Wyverns Breath,3  Goldmoss,5 Voidfrost     ,10 Starbloom,11 Nightshade ,     1  Feylily,    6 Dawnbloom,3    Drakevine   ,7 Bruxaleaf ,5       Shadowfern,3 Emberleaf,   4 Blackmarrow  ,  9  Brightroot  ,2  Wyrmsap , 1  Bloodiris , 1 Darkbloom ,2 Ironbloom  ,8 Voidorchid,14   Sorrowmoss, 1 Yewbark,1  Murkwood ,   4    Sagewort,   6 Rebis 
+Geralt loots 9 Lunarglade , 7 Felandaris,4    Gr4vity, 2 Sagewort,2 Brightroot,1 Dawnbloom,3  Blackmarrow,1 Wolfwort ,1     Wyvernscale  , 2   Goldmoss,1 Wispeye,16 Elderbloom ,4   Thornlash,15  Earthshard,1  Mandrake_Root, 1 Bloodmoss,1 Zephyrroot ,3  Bruxaleaf,3 Shadowfern , 10  Brightspire  ,3 Ravensilk  ,2   Ghostwort,   7 Alchemilla,4  Moonflower , 1 Feylily,8 Spiritrose, 14 Ghoulgrass
+    Geralt brews  Petris Philter
+  Total ingredient  Pulmonaria?
+Total     potion Drowner Decoction?
+Geralt learns  Hunter's Magic potion consists of  2 Wyvernscale,1 Dreamreed,   4 Moonmoss, 3 Ghoulgrass,7   Nightshade,2 Gloompetal, 12   Celandine, 2 Sunspire,11 Bloodiris,1 Mandrake_Root,3 Glimmerdust ,9 Shimmerleaf , 5 Ashthorn,1 Stormsage , 1 Blackmarrow, 7  Dusknettle      
+Geralt loots 2  Dreadmoss, 3  Firefern, 7   Frostcap,   1        Mistvale, 3  Lunarshade
+Geralt loots   1   Frostvine  , 9 Feylily, 13  Bloodiris ,6  Starbloom,  2 Crowseye ,  5 Belladonna
+Geralt loots  6 Celandine,1 Hellebore   ,2 Firefern,    7   Heartwood,1 Duskthorn,  3 Brightspire ,1 Emberleaf,9  Frostcap,5    Skydrift, 13   Caelmidus , 1 Drakelily,   2   Aspirin
+Geralt brews Succubus Decoction
+ What is in    Wolven Decoction?
+ Total trophy Harpy   ?
+ Geralt trades  1 Nightmare, 2  Fiend ,1  Archespore,  4 Kayran,1 Wraith,1 Ekhidna,   9           Katakan,4 Ekimmara  ,3 Forktail,2  Arachnomorph,1  Noon Wraith  ,5 Drowner,17 Vampire , 5 Nekker,  5 Wyvern ,4  Sylvan,3 Chernobog,1   Bruxa, 3 Fugas,2 Slyzard     trophy  for     12 Emberleaf ,1 Heartwood, 3 Goldmoss, 2 Ghoulgrass   1 Silverspore ,3 Ghostvine,1 Zephyrroot
+Geralt encounters a Manticore 
+Geralt brews  Katakan Decoction  
+Geralt loots     7   Wolvenrot,2     Brightspire,1  Bloodiris, 2 Drakelily,1  Mandrake,6   Moonseed,10 Pulmonaria,2   Mandrake_Root ,4 Tearleaf,17   Zephyrroot, 3  Wyrmsap,3 Stonecap , 3  Alchemilla ,16 Dimeritium  ,1 Sunmelon       ,  4   Thundercone    ,4 Lunarglade,4 Heartwood,2 Duskthorn ,3 Frostwisp ,2 Crowseye,6   Wyverns Breath,    1    Silverspore   ,2 Sagewort ,2 Ravensilk, 11 Starflower, 8 Ironbloom,1 Emberleaf, 2  Skydrift  ,6 Blackmarrow ,1 Shadowfern, 7 Nightshade , 3 Trollweed, 1 Ruffles,4 Sorrowmoss ,        1 Firefern, 5 Gravedust,3 Mistletoe, 4 Basilroot,1 Grimshale ,1 Aspirin,26 Skydaisy,3 Ghoulgrass, 2 Gloompetal    
+Geralt loots 1  Vermilion,5 Mistvale  ,2 Moonseed, 1 Silverspore, 2  Hellebore,2 Mistletoe ,4  Shadowfern, 2 Moonmoss  , 6 Wyverns Breath,11 Earthshard,7   Drakevine, 13  Ravensilk ,2 Winterberry 
+ Geralt brews  Petris Philter
+Geralt loots 5 Mandrake_Root,2   Hellebore,4  Yewbark  ,7  Mistvale ,1  Alchemilla,2  Frostvine  ,  1 Sunmelon  ,1   Sunspire,2 Glimmerdust, 5 Goldmoss,6 Rebis,3 Mandrake  
+Geralt brews Tawny Owl
+What is effective against Ekimmara?
+   Total   trophy Fugas ? 
+ Geralt brews Devils Puffball
+ Geralt loots  7 Voidfrost ,1 Wyrmsap        
+ Geralt brews  Specter Oil 
+Geralt learns Igni sign   's   effective against  Vodyanoi 
+Geralt trades 2 Shaelmaar ,2 Cemetaur,25    Hym, 4 Harpyia,1 Penitent,1 Gael,4  Manticore, 2 Cockatrice,    2 Golem,2 Leshen,3    Wight,3  Kikimore,3  Arachas,3  Ogroid ,1 Bruxa  ,1 PlagueMaiden  ,3 Godling ,3   Gaunter,3 Werewolf, 7 Nekker_King ,9 Koshchey ,  10 Nightmare,8 Slyzard , 7    Griffin   trophy for    1 Yewbark ,  5  Nightshade ,  1  Ghoulgrass,7 Gravedust ,2   Thornlash,  7  Parol,1 Gloompetal ,2  Duskthorn   ,2 Hearthfire,3  Sagewort,5   Ashthorn ,2 Necrobloom,6  Frostvine,1 Wolfwort ,7 Wispeye ,    1 Lunarshade,  1  Moonseed,  10  Feylily ,  6 Bloodiris  ,2      Mandrake,2 Gr4vity   ,3 Heartwood  ,4   Glimmerdust ,3  Alchemilla ,  19 Wolvenrot,1 Grimshale,2 Moonmoss , 1     Frostcap,2 Dryadsbark,   3 Darkbloom  ,  11 Zephyrroot ,    3  Skydrift,  7   Winterberry,2  Mistvale ,5   Dawnbloom  , 3 Brightspire ,3 Wyverns Breath,2 Emberleaf,1 Aether, 3  Shadowfern,7 Voidorchid,4 Spellthorn
+  Geralt loots 1  Silverspore  ,2  Pulmonaria,10 Ghoulgrass ,    4 Belladonna,7 Witchhazel, 2 Duskthorn ,4   Aspirin,1 Stonecap,3 Elderbloom,1 Lunarshade,13 Skydaisy     ,5   Gloompetal,4 Spellthorn,4  Dryadsbark,4   Starbloom , 6 Grimshale,9  Emberleaf, 1   Frostvine,2 Wraithbloom ,  1 Feylily ,2     Vitriol,4 Blackmarrow  ,3 Dreamreed,2 Gr4vity, 6 Sorrowmoss,4 Dusknettle ,  4  Bloodmoss ,1 Winterberry,3   Dimeritium  ,1 Voidorchid,1  Mandrake_Root ,9 Nightpearl,8 Wolfsbane ,    2  Ruffles  ,9 Parol, 1 Goldmoss,2 Sunmelon ,2  Serpentine,  6  Gravedust 
+ What is in  Elder Blood?
+What is effective against Endrega ?
+  Geralt encounters a B4rghest
+ Total trophy     Striga? 
+Geralt loots 1    Nightshade, 1 Bloodmoss , 1 Spellthorn,7 Starflower,2 Ghoulgrass,      2  Frostcap, 3  Skydaisy,   5 Gr4vity ,3 Necrobloom,5 Vitriol
+ Geralt encounters a Ekimmara
+ Geralt brews     Black Gull
+Geralt loots     3  Dawnbloom,4   Tearleaf, 3 Wyverns Breath,  15 Dryadsbark,12 Bloodmoss, 3       Lunarglade,1 Dragonroot
+  Geralt learns  Witchers Syrup potion  consists of    11 Winterberry , 12 Caelmidus,1 Yewbark   , 4   Elderbloom  ,2 Sorrowmoss,15 Mistletoe,4  Tearleaf,6 Drakelily ,1 Vitriol  ,10  Celandine ,9 Moonmoss,11 Gravedust ,1 Gloompetal,1 Parol,2 Ghostvine        , 4 Moonseed, 3 Hellebore,1 Ghostwort,    4 Alchemilla, 7  Glimmerdust , 8  Firefern  ,8   Cryptbark, 6 Skydrift,    3   Wolfwort, 1 Ravensilk,1   Bloodmoss, 4 Dawnbloom, 17  Necrobloom ,5 Shiverfern ,    2 Ghoulgrass ,9 Goldmoss ,1 Gravemold,4 Starflower 
+Geralt loots 2 Elderbloom ,7 Duskthorn, 3 Lunarshade  
+Geralt brews   Wraith Decoction
+Geralt learns Samum sign     is effective  against    House MD
+Geralt loots   4   Nightshade,8 Bruxaleaf,4    Brightroot, 14      Rebis, 8  Caelmidus,1  Gloompetal ,   2  Necrobloom , 1  Wolfwort,7 Mistletoe,3 Shiverfern ,3 Aether ,9    Stormsage,1  Thundercone ,5 Moonflower ,2  Frostvine,  1 Invalid Ingredient   ,2 Echinops   ,2 Mandrake_Root, 1 Dawnbloom,2   Runestone ,3  Wolvenrot ,  3  Celandine,3  Frostcap,3 Firefern,8 Gr4vity,17 Dragonroot,1.7 Bloodiris
+Geralt loots 4   Starflower    ,6 Sunspire  ,3  Alchemilla   ,3 Tearleaf,2      Gloompetal ,7 Dreamreed  ,   1 Ruffles  ,   8  Echinops, 6 Witchhazel ,2 Grimshale         
+ Geralt encounters a B4rghest
+Total   potion  Draconid Oil ?
+Geralt brews Hanged Mans Venom
+Geralt Brews White-Honey 
+Geralt learns Cursed Oil potion is effective against  Wight 
+ Geralt brews Wyverns Sting
+Geralt brews   Moonlit Venom  
+Geralt encounters a Noon Wraith
+ What is effective against    Werewolf   ?
+ Geralt brews Relict Oil
+Geralt loots 6  Duskthorn,13 Spellthorn , 2    Wraithbloom, 5  Emberleaf,  2 Wolfwort,  4 Brightspire,4 Celandine ,  9 Wolfsbane,1 Drakelily , 3 Starflower,  1 Cryptbark
+Geralt learns  Widows Tears potion consists of 2 Voidorchid ,1      Lunarshade,1 Wyverns Breath,3  Earthshard, 5 Yewbark, 1  Sagewort ,7 Winterberry, 4 Invalid Ingredient,1 Lunarglade,4  Ghostvine,2 Moonseed  ,5 Frostwisp,8 Drakevine,7 Hellebore,4    Firefern  ,1 Mandrake_Root,3 Murkwood ,7  Moonflower,    5  Bloodmoss  ,9 Gravemold ,4 Caelmidus ,22 Dragonroot, 9 Shadowfern,3 Grimshale,  9 Mistletoe,1  Heartwood ,1  Wolvenrot  
+What is in Silver Tongue?
+Geralt loots 2 Tearleaf,2 Dimeritium,2 Aether, 3  Voidorchid ,2 Crowseye,  3  Ghostvine,2 Dryadsbark ,2  Dragonroot ,6   Runestone, 4  Skydaisy, 2   Wraithbloom,1 Hearthfire,2   Serpentine, 5 Mandrake_Root, 5 Belladonna,3 Brightspire    ,11 Invalid Ingredient  ,1  Ironbloom,3 Spellthorn ,3 Winterberry, 1 Wyverns Breath ,  1  Thundercone ,1 Bloodiris,2 Gloompetal   ,6 Shimmerleaf, 6 Starflower  ,3 Silverspore,8 Gravemold,    4  Voidfrost, 6  Necrobloom,  6 Bloodmoss ,6  Ravensilk  
+Geralt loots 11   Ghostwort ,8  Hearthfire , 2 Aether, 2 Cryptbark, 6 Voidfrost ,  10  Frostcap,  3 Heartwood,6  Silverspore ,1      Dryadsbark,2 Drakelily  , 1 Serpentine ,4 Moonmoss
+  Geralt loots 5   Ghostwort,4    Alchemilla,4  Dawnbloom,4  Grimshale ,2   Gr4vity,1 Ironbloom,3 Hellebore , 1 Vitriol,9 Nightpearl,6 Parol,1 Frostcap, 1 Drakevine,10 Stormsage
+Geralt loots   1 Shiverfern ,8   Hellebore  ,6 Ashthorn ,2 Goldmoss,1 Alchemilla,3 Parol, 3 Silverspore,5 Murkwood    , 6 Felandaris,1 Blackmarrow ,5  Wolvenrot   ,2  Echinops,1 Aether,  7 Witchhazel , 4 Vitriol,5  Skydrift,13  Dryadsbark , 9  Firefern ,4 Gloompetal,3  Ghostwort,  2 Bloodmoss, 3 Spellthorn     ,4   Belladonna, 2     Moonseed ,14 Wraithbloom,1 Wyvernscale,9  Drakelily,    2 Gravemold,8 Wolfwort  , 6  Zephyrroot,1 Voidfrost,5 Heartwood,9 Spiritrose ,  2 Necrobloom,6  Mandrake_Root,   4  Rebis,2  Thundercone,  2 Celandine , 3  Brightroot,   7     Shimmerleaf,    20 Runestone   , 2 Wyrmsap,3  Ruffles,6  Yewbark,1  Wispeye  , 1  Sagewort  ,   4 Mistvale  ,1  Sorrowmoss,3 Brightspire,11  Voidorchid,   5 Dusknettle,7 Nightshade,5 Dreamreed, 5 Feylily ,3 Gravedust,1     Stonecap   ,1  Invalid Ingredient ,10  Trollweed ,  4 Frostcap
+  Geralt loots  3 Frostvine,  1 Murkwood, 3  Zephyrroot  ,13 Vitriol, 8    Dawnbloom   
+ Geralt loots  4    Darkbloom ,3 Frostcap , 5   Dryadsbark, 25 Dimeritium,7  Vitriol,1 Dawnbloom
+Geralt encounters a  Wraith
+Geralt trades 1 Leshen,  2 Lamia,6 Noonwraith , 5 Dagon ,1 Djinn, 2 Wyvern,4 Barghest ,1 Plat*pus  ,  5 Sylvan ,7  Hym  trophy for 5  Pulmonaria,8 Dragonroot ,13  Caelmidus ,   2  Lunarglade, 5 Sunspire  ,3   Murkwood  
+Geralt loots 1  Wolvenrot,1 Gloompetal ,2 Earthshard,1 Sunmelon, 1 Aspirin ,7 Witchhazel,2 Ironbloom,1 Aether,1  Starbloom,1 Dryadsbark,2 Feylily, 2 Heartwood,8 Gr4vity ,  1 Shimmerleaf,1  Wyvernscale ,  2 Bruxaleaf, 10  Firefern,4 Voidorchid
+ Geralt learns   Aard sign is effective against  Troll
+Exit

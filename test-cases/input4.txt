@@ -1,0 +1,61 @@
+Geralt loots   1 Sunspire,   1 Frostvine    ,  2   Cryptbark,4  Silverspore ,      2  Shiverfern   
+Geralt brews   Sunstone Dust
+  Geralt trades    3    Chernobog ,1  Alghoul  trophy  for 1 Pulmonaria 
+What is in Widowmaker? 
+Geralt loots  5 Spiritrose
+ Geralt learns        Widowmaker potion consists of    2 Celandine   ,1  Lunarshade ,1  Aether, 1  Sagewort,2 Wyvernscale   ,    2   Drakelily 
+    Geralt brews      Maribor Forest
+  Geralt loots    1   Bruxaleaf 
+    Geralt loots  2  Wraithbloom  , 2 Silvertear ,4  Vitriol,  1     Voidorchid, 2     Gravemold  ,1 Cryptbark 
+Geralt trades  2            Ifrit,3   Dagon     trophy  for  3   Blackmarrow , 2  Duskthorn, 1   Winterberry ,  2  Ironbloom    ,2 Nightpearl,1 Lunarglade,      1 Ravensilk, 3  Felandaris
+  Total    ingredient        Mistvale ?
+Geralt learns   Water Hag Decoction  potion    is effective  against Archgriffin 
+Geralt loots  1 Drakevine ,1 Ashthorn, 4  Shiverfern  
+What is in  Moonlit Venom ?    
+ Total potion  Spirits Solace  ?
+   Geralt encounters a       Shaelmaar
+  Geralt brews Relict Oil  
+Geralt learns                Ignium sign  is    effective  against Shaelmaar
+ Geralt learns    Griffin Decoction    potion    consists of     4 Grimshale,1 Wispeye,  4    Duskthorn ,1   Moonmoss    ,2 Thundercone
+Geralt trades    2   Wyvern  trophy    for      3 Tearleaf    
+ Geralt loots  2     Nightpearl,1 Caelmidus  ,1 Frostwisp ,2 Bruxaleaf
+ Geralt loots  2 Dragonroot,5   Alchemilla
+Geralt trades 1        Nekker trophy   for  2 Dryadsbark,5            Caelmidus , 1  Wolvenrot     
+ Geralt brews  Ravens Elixir 
+What is in Banshees Wail ?
+Geralt loots   3 Ghostwort
+  Geralt loots   1  Heartwood 
+Geralt encounters a Hym
+Geralt learns      Aard sign is   effective   against Penitent
+  Geralt brews    Katakan Decoction  
+Geralt loots   1  Ghostwort 
+What is effective against  Bruxa?     
+Geralt loots   1 Brightspire,4 Nightpearl , 2 Ghostwort  
+ Geralt loots 1      Stormsage,2   Celandine
+Geralt encounters a   Garkain
+Geralt trades 3     Glustyworp, 1    Nightmare trophy for  1        Frostwisp 
+Geralt loots 1     Hellebore   
+  Total  trophy Gael ?
+Geralt loots    2 Bruxaleaf  
+Total  trophy  Draugir?
+Geralt trades   2  Kikimore,2 Godling            trophy for 1 Ghostwort,  1 Feylily  
+Geralt loots    1   Basilroot,2 Starbloom    ,1 Sagewort,5 Trollweed,5  Wolfwort 
+ What is in Wraith Decoction ? 
+ Geralt brews Arachas Decoction
+ Geralt loots   3  Wolfsbane 
+  Total trophy Slyzard?    
+Geralt loots    3  Voidorchid
+Total   ingredient   Mandrake?    
+ Geralt brews      White Honey   
+Geralt loots  2    Drakelily   
+  Geralt loots   1  Winterberry ,4  Voidorchid ,2     Wyvernscale,2    Voidfrost
+Geralt loots         5 Zephyrroot ,  3  Belladonna   ,5   Emberleaf 
+Total   ingredient Duskthorn?
+   Geralt encounters a       Vampire
+Geralt loots     2 Hellebore         ,1    Ravensilk
+ Geralt loots 1    Skydaisy ,2   Spiritrose   ,4 Stonecap,6     Emberleaf ,1  Gravedust,1 Thornlash ,5 Yewbark ,   3    Ashthorn 
+ Geralt loots   6 Drakevine  
+ Geralt brews     Vampire Kiss
+What is in             Sunstone Dust?
+  Geralt learns   Black Gull  potion consists of  1  Frostcap,2    Hellebore  
+Exit

@@ -1,0 +1,21 @@
+Total ingredient Darkbloom?
+Geralt loots 14 Silverspore,2 Bloodmoss
+Geralt loots 4 Serpentine,2 Ghostwort,3 Crowseye,7 Sagewort
+Geralt learns Elder Blood potion consists of 7 Voidfrost,2 Wolvenrot,2 Nightpearl,3 Felandaris,2 Earthshard
+Total ingredient Dryadsbark?
+Geralt trades 10 Draugir,3 Dagon,9 Tribunal,3 Arachas,3 Vampire,7 Rotfiend,2 Cemetaur,8 Archespore,18 Ghoul trophy for 6 Ghoulgrass
+What is effective against Gaunter?
+Geralt brews Vampire Kiss
+Geralt loots 3 Shiverfern
+Geralt loots 3 Frostwisp
+Geralt loots 3 Ruffles,6 Necrobloom,11 Sunspire,13 Gloompetal,1 Ashthorn,12 Firefern
+Geralt brews Wolven Decoction
+Geralt encounters a Noonwraith
+Geralt loots 1 Moonflower,1 Bruxaleaf
+Geralt brews Ekhidna Decoction
+Geralt loots 32 Frostwisp,3 Frostcap,2 Voidorchid,11 Vermilion,1 Winterberry,11 Witchhazel,7 Drakelily
+Geralt learns Archgriffin Decoction potion consists of 14 Mistvale,5 Feylily,3 Aether,8 Wispeye,4 Shimmerleaf,3 Silvertear,5 Tearleaf,3 Bloodmoss,11 Duskthorn,12 Emberleaf,1 Dimeritium,9 Trollweed
+Geralt brews Spirits Solace
+Geralt encounters a Botchling
+Total potion White Raffards Decay?
+Exit

@@ -1,0 +1,99 @@
+\documentclass[12pt]{article}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{amsmath}
+
+\title{Witcher Tracker\\CMPE 230 – Project 3 Documentation}
+\author{Akif Yıldırım \\ 2020400144}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+
+\newpage
+
+\section{Project Overview}
+The Witcher Tracker is an inventory-event management system that simulates Geralt's interactions in the Witcher universe. The system is implemented in C++ using Object-Oriented Programming and handles commands related to looting, brewing potions, learning monster weaknesses, and querying Geralt’s inventory, bestiary, and alchemy formulas.
+
+\section{Design and Implementation}
+
+\subsection{Class and Object Design}
+\begin{itemize}
+    \item \textbf{Inventory}: Manages ingredients, potions, and trophies.
+    \item \textbf{Bestiary}: Stores knowledge about monsters and their effective counters.
+    \item \textbf{Alchemy}: Maintains potion recipes and handles brewing logic.
+\end{itemize}
+
+\subsection{Execution Flow}
+\begin{enumerate}
+    \item The program reads a line of input prefixed with \texttt{>>}.
+    \item The line is passed to the parser, which identifies the command type.
+    \item The appropriate handler is called, and the result is printed.
+\end{enumerate}
+
+\section{Challenges and Solutions}
+\begin{itemize}
+    \item \textbf{Flexible input parsing}: Regex patterns were carefully constructed to allow varying whitespace but disallow invalid characters or structure.
+    \item \textbf{Input sanitization}: We had to trim and normalize input for accurate parsing and validation.
+\end{itemize}
+
+\section{Usage Guide}
+
+\subsection{Compilation}
+To compile the program:
+\begin{verbatim}
+make
+\end{verbatim}
+
+This will generate an executable named \texttt{witchertracker}.
+
+\subsection{Execution}
+To run the program:
+\begin{verbatim}
+./witchertracker
+\end{verbatim}
+
+\subsection{Example Inputs and Outputs}
+\begin{verbatim}
+>> Geralt loots 4 Vitriol, 3 Rebis
+Alchemy ingredients obtained
+
+>> Geralt learns Igni sign is effective against Harpy
+New bestiary entry added: Harpy
+
+>> Geralt encounters a Harpy
+Geralt defeats Harpy
+
+>> Total ingredient ?
+3 Rebis, 4 Vitriol
+
+>> What is in Black Blood ?
+3 Vitriol, 2 Rebis, 1 Quebrith
+\end{verbatim}
+
+\section{Code Structure Summary}
+
+\begin{itemize}
+    \item \texttt{main.cpp}: Entry point
+    \item \texttt{WitcherTracker.h/.cpp}: Main class that holds inventory, bestiary, and alchemy objects.
+    \item \texttt{Inventory.h/.cpp}: Manages adding/removing/querying ingredients, potions, and trophies.
+    \item \texttt{Bestiary.h/.cpp}: Manages effective signs and potions against monsters.
+    \item \texttt{Alchemy.h/.cpp}: Manages potion recipes and brewing logic.
+\end{itemize}
+
+\section{AI Assistant Usage}
+ChatGPT was used for:
+\begin{itemize}
+    \item Suggesting regex patterns for flexible yet strict grammar validation.
+    \item Debugging segmentation faults in input parsing stages.
+\end{itemize}
+\end{document}

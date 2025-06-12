@@ -1,0 +1,41 @@
+Geralt loots 1 Lunarshade,6 Murkwood,7 Sunmelon,4 Shimmerleaf,2 Wolfwort,4 Silvertear,4 Echinops
+Geralt loots 2 Bruxaleaf,5 Sagewort
+Geralt brews Noonwraith Decoction
+Geralt trades 15 Berserker trophy for 7 Blackmarrow,15 Shadowfern,2 Sagewort,1 Spellthorn,5 Stormsage
+Geralt brews Black Gull
+Geralt brews Black Gull
+Geralt learns Bloodmoon Elixir potion consists of 4 Rebis,8 Grimshale,1 Brightspire,11 Necrobloom,7 Heartwood
+Total potion Banewolf Elixir?
+Geralt trades 8 Wight,1 Archgriffin trophy for 11 Bloodmoss
+Geralt brews Petris Philter
+Geralt brews Cursed Oil
+Geralt loots 3 Starbloom
+Geralt encounters a Doppler
+Geralt brews Draconid Oil
+Geralt encounters a Kikimore
+Geralt loots 5 Ashthorn
+Geralt loots 6 Sorrowmoss,5 Emberleaf,2 Goldmoss
+Geralt loots 4 Ravensilk
+Total trophy Ghule?
+Geralt loots 1 Darkbloom,12 Mistvale,4 Alchemilla
+Geralt loots 1 Dusknettle,2 Bloodiris,24 Rebis
+Geralt brews Doppler Decoction
+Geralt brews Widows Tears
+Geralt trades 31 Gael,2 Shaelmaar trophy for 5 Dreamreed,8 Belladonna,6 Bruxaleaf,2 Zephyrroot
+Geralt brews Blizzard
+Total trophy Arachnomorph?
+Geralt loots 8 Dreamreed,2 Trollweed,4 Bloodmoss,1 Drakevine,6 Feylily,2 Shiverfern
+Geralt encounters a Fleder
+Geralt loots 2 Celandine,1 Frostvine
+Geralt brews Witchers Syrup
+Geralt loots 6 Dragonroot
+Geralt brews Troll Decoction
+Geralt trades 6 Ekimmara trophy for 1 Parol,1 Echinops,3 Glimmerdust,2 Spiritrose,1 Lunarglade
+What is effective against Barghest?
+Geralt learns Beech Tea potion consists of 4 Goldmoss
+Geralt learns Black Blood potion consists of 1 Drakevine,4 Pulmonaria,17 Trollweed,10 Brightspire,2 Belladonna
+Geralt loots 2 Wolvenrot,5 Duskthorn,5 Gravemold,2 Sunmelon,1 Sunspire
+Geralt brews Banshees Wail
+Geralt loots 2 Drakevine
+Geralt loots 7 Bloodmoss
+Exit

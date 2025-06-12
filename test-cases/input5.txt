@@ -1,0 +1,101 @@
+Geralt loots 1 Gloompetal,1 Bloodmoss
+Geralt encounters a Gaunter
+Total ingredient Ghostvine?
+Geralt loots 3 Basilroot
+Geralt loots 1 Shimmerleaf
+Geralt loots 2 Dragonroot,5 Felandaris
+Total potion Carrion Decoction?
+Geralt encounters a Chort
+Total potion Black Blood?
+Geralt encounters a Ghule
+Geralt loots 1 Witchhazel,3 Shadowfern
+Geralt trades 1 Forktail trophy for 1 Frostvine
+Geralt loots 4 Spellthorn,2 Wolfsbane,3 Sunspire,3 Trollweed,3 Invalid Ingredient
+Geralt brews Witchers Courage
+Geralt loots 1 Brightroot,2 Glimmerdust
+Geralt loots 1 Parol
+Geralt brews Griffin Decoction
+Geralt trades 7 Vampire trophy for 2 Belladonna
+Geralt loots 2 Wyvernscale
+Geralt trades 5 Katakan trophy for 1 Dreamreed
+Total potion Thunderbolt?
+Geralt loots 5 Stormsage
+Geralt brews Arachas Decoction
+Geralt loots 1 Celandine,1 Wispeye,2 Dusknettle
+Geralt brews Drowner Decoction
+Geralt loots 1 Skydrift,3 Silvertear
+Geralt loots 4 Skydaisy,1 Vermilion
+Total ingredient Duskthorn?
+Geralt loots 7 Starflower,9 Blackmarrow
+Total ingredient Belladonna?
+Geralt brews Banewolf Elixir
+Geralt loots 1 Thornlash
+Total trophy Golem?
+Geralt loots 1 Zephyrroot
+Geralt loots 3 Heartwood
+Geralt loots 2 Bruxaleaf
+Geralt loots 1 Thundercone
+Total potion Carrion Decoction?
+Geralt encounters a Harpy
+Geralt brews Ekhidna Decoction
+Geralt brews Wyverns Sting
+Geralt trades 6 Golem trophy for 2 Dawnbloom,3 Wolfwort
+Geralt loots 2 Dreamreed
+Geralt loots 1 Rebis
+Geralt encounters a Zeugl
+Geralt brews Cockatrice Decoction
+Geralt encounters a Nekker
+Geralt encounters a Vampire
+Geralt loots 2 Mandrake
+Geralt loots 1 Nightpearl,3 Ravensilk
+What is in Wolven Decoction?
+Geralt loots 2 Aspirin
+Geralt loots 14 Stormsage,1 Dimeritium
+Geralt loots 2 Lunarshade
+Geralt brews Necrophage Oil
+Geralt encounters a Leshy
+Total trophy Nightmare?
+Geralt encounters a Troll
+Geralt brews Swallow
+Geralt loots 2 Gloompetal
+Geralt learns Relict Oil potion consists of 1 Ghostwort,4 Shadowfern,1 Echinops
+Total ingredient Aether?
+Geralt loots 4 Dreamreed
+Geralt encounters a Cockatrice
+Geralt learns Banewolf Elixir potion consists of 5 Wolfsbane
+Geralt trades 4 Plat*pus trophy for 1 Dreadmoss
+Total ingredient Cryptbark?
+What is effective against Sylvan?
+What is in Thistle Tea?
+Geralt loots 2 Bloodiris
+Geralt encounters a Lamia
+Total trophy Alp?
+Geralt encounters a Chernobog
+Geralt encounters a Nightmare
+Geralt loots 4 Witchhazel
+Geralt learns Specter Oil potion consists of 3 Gravemold
+Geralt loots 10 Trollweed
+What is effective against Gael?
+What is effective against Wight?
+Geralt trades 1 Harpy trophy for 2 Lunarglade
+Total potion Ravens Elixir?
+Geralt brews Hybrid
+Geralt learns Devils Puffball potion consists of 1 Ghostwort,1 Moonflower,1 Wolvenrot
+Geralt loots 1 Bruxaleaf
+Geralt trades 1 Ghoul trophy for 1 Wyvernscale
+What is effective against Ogroid?
+What is in Black Gull?
+Geralt learns Wyverns Sting potion consists of 1 Frostvine
+Geralt loots 3 Ghostwort
+Geralt learns Archgriffin Decoction potion consists of 1 Bruxaleaf
+Geralt encounters a Bruxa
+Geralt loots 2 Goldmoss,1 Aspirin
+Total ingredient Emberleaf?
+Geralt brews Necromancer Bane
+What is effective against PlagueMaiden?
+Geralt trades 3 Golem,4 Wraith,10 Draugir trophy for 4 Spellthorn
+Geralt learns Necromancer Bane potion is effective against Bruxa
+Geralt loots 1 Heartwood
+Geralt loots 3 Serpentine
+Geralt trades 4 Slyzard trophy for 2 Brightroot
+Exit

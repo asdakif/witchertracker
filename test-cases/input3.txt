@@ -1,0 +1,101 @@
+Geralt loots 5 Alchemilla
+Geralt encounters a Katakan
+Geralt trades 1 Zeugl,1 Kikimore trophy for 1 Starbloom
+Geralt encounters a Devourer
+Geralt learns Necrophage Oil potion consists of 2 Wraithbloom,4 Vitriol
+Geralt learns Cat potion is effective against Foglet
+Total ingredient Ashthorn?
+What is in Bloodmoon Elixir?
+Geralt loots 1 Wolfwort
+Geralt encounters a PlagueMaiden
+Geralt loots 4 Wyrmsap
+Geralt encounters a Alghoul
+Geralt learns Blizzard potion consists of 2 Mandrake
+Geralt loots 7 Mistletoe,4 Moonflower
+Geralt loots 4 Bruxaleaf
+Geralt loots 2 Felandaris
+Geralt trades 2 Archespore,3 Leshy trophy for 1 Dryadsbark,1 Thornlash
+Total trophy Tribunal?
+Geralt loots 2 Dragonroot,1 Runestone
+Geralt loots 4 Silvertear
+Geralt encounters a Barghest
+Geralt loots 3 Shiverfern
+Geralt loots 1 Earthshard,1 Ghostvine
+Geralt learns Bloodmoon Elixir potion consists of 2 Cryptbark,8 Spellthorn
+Geralt loots 4 Alchemilla
+Geralt loots 3 Moonseed
+Geralt brews Thistle Tea
+Geralt learns Archgriffin Decoction potion consists of 1 Crowseye,5 Witchhazel,3 Bloodiris
+What is in Relict Oil?
+Geralt brews Bloodmoon Elixir
+Geralt encounters a Wight
+Geralt loots 1 Drakelily
+Geralt loots 1 Silvertear,2 Vitriol,6 Shimmerleaf
+Geralt trades 1 Zeugl,2 Fugas,3 Nightmare,2 Godling,2 Tribunal trophy for 4 Elderbloom
+Total ingredient Mandrake?
+Geralt loots 3 Skydaisy
+Geralt trades 1 Godling trophy for 3 Cryptbark
+Geralt loots 3 Nightpearl
+Total potion Dragons Breath?
+Geralt loots 1 Pulmonaria
+Geralt loots 1 Tearleaf,1 Winterberry
+Geralt loots 2 Earthshard
+Geralt loots 2 Ghostwort
+What is effective against Harpyia?
+Geralt brews Widows Tears
+Geralt encounters a Lubberkin
+Geralt loots 1 Bloodiris,1 Sorrowmoss,3 Elderbloom,3 Caelmidus,1 Duskthorn
+Geralt loots 1 Stonecap
+Geralt learns Banshees Wail potion is effective against Glustyworp
+Geralt loots 4 Shimmerleaf,2 Necrobloom,1 Hearthfire,4 Murkwood
+Geralt brews Glimmering Dust
+Total potion Devils Puffball?
+Geralt loots 4 Runestone
+Geralt loots 2 Dimeritium,1 Ruffles,2 Dryadsbark,1 Felandaris
+Total potion Ancient Leshen Decoction?
+Geralt learns Glimmering Dust potion consists of 6 Shadowfern
+Total ingredient Shadowfern?
+What is effective against Chernobog?
+Geralt brews Griffin Decoction
+Geralt brews Cockatrice Decoction
+Geralt brews Basilisk Decoction
+Geralt loots 6 Winterberry,2 Belladonna
+Geralt brews Devils Puffball
+Geralt learns Tawny Owl potion is effective against Griffin
+Geralt trades 5 PlagueMaiden,1 Slyzard trophy for 4 Pulmonaria
+Geralt trades 1 Garkain trophy for 2 Aether
+Geralt loots 1 Dawnbloom
+Geralt learns Widowmaker potion consists of 2 Rebis,10 Dusknettle,1 Goldmoss
+Geralt trades 1 Bruxa trophy for 3 Cryptbark,1 Murkwood
+Geralt trades 1 Katakan,1 Rotfiend trophy for 2 Gloompetal
+Geralt loots 1 Voidfrost
+Geralt loots 3 Wyrmsap
+Geralt loots 3 Zephyrroot,1 Moonseed
+Geralt brews Spirits Solace
+Geralt brews Drowner Decoction
+What is effective against Hym?
+Geralt loots 2 Frostvine
+Geralt brews Fiend Decoction
+Geralt brews Firestarter
+Geralt loots 1 Stonecap,2 Sunspire
+Geralt learns Cockatrice Decoction potion consists of 4 Wraithbloom
+Geralt brews Meliteles Grace
+Geralt loots 1 Wolfsbane
+Geralt loots 6 Duskthorn
+Geralt loots 1 Frostvine
+Total trophy Harpyia?
+Total ingredient Feylily?
+Geralt learns Meliteles Grace potion consists of 2 Thundercone
+Geralt brews Ekimmara Decoction
+Geralt loots 4 Silverspore,4 Belladonna,1 Yewbark,5 Zephyrroot
+Geralt loots 7 Brightspire
+Total trophy Barghest?
+Geralt loots 4 Gloompetal,2 Ghoulgrass,1 Shiverfern
+Geralt trades 5 Wight,3 Archespore trophy for 2 Grimshale,1 Drakelily
+Geralt trades 1 Alp trophy for 1 Ruffles,3 Dawnbloom
+Geralt trades 1 Devourer,1 Botchling trophy for 1 Spiritrose,1 Elderbloom
+Geralt loots 1 Wolfsbane
+Geralt trades 3 Archgriffin trophy for 1 Wispeye
+What is in Necrophage Oil?
+Geralt loots 1 Ravensilk
+Exit
